@@ -13,24 +13,13 @@ design:
 
 
 experience:
-  - title: 'CEO'
-    company: 'GenCoin'
+  - title: '3rd Graduate Meeting of the Museum of Zoology of the University of São Paulo'
+    company: 'Review of the genus _Narcissia_ Gray, 1840 (Echinodermata, Asteroidea)'
     company_url: ''
-    location: 'California'
-    date_start: '2017-01-01'
-    date_end: ''
-    description: >-
-        Responsibilities include:
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: 'Professor'
-    company: 'University X'
-    company_url: ''
-    location: 'California'
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: 'Taught electronic engineering and researched semiconductor physics.'
+    location: 'São Paulo, Brazil'
+    date_start: '2019-03-01'
+    #date_end: ''
+       
+
     
 ---
