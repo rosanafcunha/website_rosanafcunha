@@ -2,7 +2,7 @@
 title: Rosana Fernandes da Cunha
 role: Master in Systematics, Animal Taxonomy, and Biodiversity Museum of
   Zoology, University of São Paulo (MZUSP)
-avatar_filename: 76624467.png
+avatar_filename: avatar.png
 social:
   - display:
       header: false
