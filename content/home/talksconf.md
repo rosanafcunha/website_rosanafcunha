@@ -14,11 +14,11 @@ design:
 
 experience:
   - company: '3rd Graduate Meeting of the Museum of Zoology of the University of São Paulo'
-    title: 'Review of the genus _Narcissia_ Gray, 1840 (Echinodermata, Asteroidea)'
+    title: '2019 - Review of the genus _Narcissia_ Gray, 1840 (Echinodermata, Asteroidea)'
     company_url: ''
     location: 'São Paulo, Brazil'
-    date_start: '2019-03-01'
-    date_end: '2019-03-01'
+    #date_start: '2019-03-01'
+    #date_end: '2019-03-01'
        
 
     
