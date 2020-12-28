@@ -6,7 +6,7 @@ headless: true  # This file represents a page section.
 
 weight: 60
 
-Tite: Posts and Talks
+Titte: Posts and Talks
 
 content:
   # Page type to display. E.g. project.
