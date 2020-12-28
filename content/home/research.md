@@ -8,6 +8,6 @@ weight: 30
 title: Research
 
 design:
-  columns: '1'
+  columns: '2'
   
 ---
