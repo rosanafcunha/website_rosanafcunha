@@ -19,7 +19,7 @@ experience:
     location: 'São Paulo, Brazil'
     #date_start: '2019-03-01'
     #date_end: '2019-03-01'
-       
+    description: 'Cunha, R. & Tavares, M.'
 
     
 ---
