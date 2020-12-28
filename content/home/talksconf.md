@@ -13,13 +13,15 @@ design:
 
 
 experience:
-  - company: '3rd Graduate Meeting of the Museum of Zoology of the University of São Paulo'
-    title: '2019 - Review of the genus _Narcissia_ Gray, 1840 (Echinodermata, Asteroidea)'
-    company_url: ''
-    location: 'São Paulo, Brazil'
-    #date_start: '2019-03-01'
-    #date_end: '2019-03-01'
+  - title: '2019 - Review of the genus _Narcissia_ Gray, 1840 (Echinodermata, Asteroidea)'
+    company: '3rd Graduate Meeting of the Museum of Zoology of the University of São Paulo'
     description: 'Cunha, R. & Tavares, M.'
+    location: 'São Paulo, Brazil'
+    
+  - title: '2013 -  Morphology of _Narcissia trigonaria_ Sladen, 1889 (Asteroidea: Ophidiasteridae)'
+    company: '2nd Latin American Congress of Echinoderms'
+    description: 'Cunha, R.; Martins, L.; Souto, C. & Menegola, C'
+    location: 'São Sebastião, Brazil'
 
     
 ---
