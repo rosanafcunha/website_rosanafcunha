@@ -2,7 +2,7 @@
 widget: experience
 widget_id: talksConf
 headless: true
-weight: 10
+weight: 60
 title: Talks and Conference Activity
 active: true
 design:
