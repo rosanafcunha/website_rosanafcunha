@@ -4,7 +4,10 @@ role: Master in Systematics, Animal Taxonomy, and Biodiversity Museum of
   Zoology, University of São Paulo (MZUSP)
 avatar_filename: avatar.png
 bio: ""
-interests: []
+interests:
+  - Phylogenomics   Asteroidea - Marine Invertebrates   Evolutionary
+    Biology   Marine Biogeography   Taxonomy
+  - Phylogeny and Morphology of Asteroidea
 social:
   - display:
       header: false
