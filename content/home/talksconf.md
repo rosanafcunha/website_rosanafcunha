@@ -27,14 +27,14 @@ item:
     date_start: '2019-03-01'
     date_end: ''
     description: '3rd Graduate Meeting of the Museum of Zoology of the University of São Paulo'
-  - organization: edX
-    organization_url: 'https://www.edx.org'
-    title: Blockchain Fundamentals
-    url: 'https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals'
-    certificate_url: 'https://www.edx.org'
-    date_start: '2018-03-01'
+  - organization: Poster
+    organization_url: ''
+    title: 'Morphology of _Narcissia trigonaria_ Sladen, 1889 (Asteroidea: Ophidiasteridae): a taxonomic problem?'
+    url: ''
+    certificate_url: ''
+    date_start: '2013-10-01'
     date_end: ''
-    description: 'Formulated informed blockchain models, hypotheses, and use cases.'
+    description: '2nd Latin American Congress of Echinoderms, São Sebastião, Brazil'
   - organization: DataCamp
     organization_url: 'https://www.datacamp.com'
     title: 'Object-Oriented Programming in R: S3 and R6 Course'
