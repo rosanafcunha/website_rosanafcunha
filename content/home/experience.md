@@ -55,7 +55,7 @@ experience:
     description: >-
         Responsibilities include:
         
-        * Organized, cataloged and computerized some collections of invertebrates
-        * Identified species of the Asteroidea Class present in the collection
+       Organized, cataloged and computerized some collections of invertebrates
+       Identified species of the Asteroidea Class present in the collection
     
 ---
