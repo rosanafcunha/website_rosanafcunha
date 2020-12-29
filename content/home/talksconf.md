@@ -21,7 +21,7 @@ date_format: Jan 2006
 item:
   - organization: Poster
     organization_url: 'https://www.mz.usp.br'
-    title: 'Revision of the genus _Narcissia_ Gray, 1840 (Echinodermata, Asteroidea): from morphology to taxonomy'
+    title: 'Revision of the Genus _Narcissia_ Gray, 1840 (Echinodermata, Asteroidea): from Morphology to Taxonomy'
     url: ''
     certificate_url: ''
     date_start: '2019-03-01'
@@ -29,7 +29,7 @@ item:
     description: '3rd Graduate Meeting of the Museum of Zoology of the University of São Paulo, São Paulo, Brazil'
   - organization: Poster
     organization_url: ''
-    title: 'Morphology of _Narcissia trigonaria_ Sladen, 1889 (Asteroidea: Ophidiasteridae): a taxonomic problem?'
+    title: 'Morphology of _Narcissia trigonaria_ Sladen, 1889 (Asteroidea: Ophidiasteridae): a Taxonomic Problem?'
     url: ''
     certificate_url: ''
     date_start: '2013-10-01'
@@ -51,5 +51,13 @@ item:
     date_start: '2012-03-01'
     date_end: ''
     description: '29th Brazilian Congress of Zoology, Salvador, Brazil'
+  - organization: Talk
+    organization_url: ''
+    title: 'Identification of Juveniles and Adults of Asteroidea: a Taxonomic Problem'
+    url: ''
+    certificate_url: ''
+    date_start: '2012-11-01'
+    date_end: ''
+    description: '31st Student Research Seminar and 13th Bahia Federal University Research and Graduate Seminar, Salvador, Brazil'  
     
 ---
