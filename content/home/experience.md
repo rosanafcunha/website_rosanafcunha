@@ -60,12 +60,10 @@ experience:
     location: 'California'
     date_start: '2017-01-01'
     date_end: '2017-02-01'
-    description: ">-"
+    description: >-
         Responsibilities include:
         
-       * Analysing
-       * Modelling
-       * Deploying
-    
-   
+        * Analysing
+        * Modelling
+        * Deploying
 ---
