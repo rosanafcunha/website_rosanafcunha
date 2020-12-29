@@ -46,12 +46,12 @@ experience:
     date_end: '2018-11-01'
     description: 'Performed morphological studies of all the specimens of _Narcissia_ Gray, 1840'
     
-  - title: 'Fellowship'
-    company: 'National Museum of Natural History, Smithsonian Institution'
-    company_url: 'https://naturalhistory.si.edu/'
-    location: 'Washington D.C., United States'
-    date_start: '2018-08-01'
-    date_end: '2018-11-01'
-    description: 'Performed morphological studies of all the specimens of _Narcissia_ Gray, 1840'
+  - title: 'Summer Internship'
+    company: 'Museum of Comparative Zoology, Harvard University'
+    company_url: 'https://mcz.harvard.edu/'
+    location: 'Cambridge, Massachusetts'
+    date_start: '2015-05-25'
+    date_end: '2018-08-18'
+    description: 'Organized, cataloged and computerized the collections of invertebrates'
     
 ---
