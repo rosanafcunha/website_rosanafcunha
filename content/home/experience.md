@@ -22,13 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 #experience:
-#  - title: Peer-review
-#    company: Revista de Biología Tropical, University of Costa Rica
+#  - title: 'Peer-review'
+#    company: 'Revista de Biología Tropical, University of Costa Rica'
 #    company_url: 'https://revistas.ucr.ac.cr/'
-#    location: Costa Rica
+#    location: 'Costa Rica'
 #    date_start: '2020-08-01'
 #    date_end: ''
-#    description: Review scientific papers
+#    description: 'Review scientific papers'
 #
 #  - title: Assistant Collection Manager
 #    company: Swedish Museum of Natural History
