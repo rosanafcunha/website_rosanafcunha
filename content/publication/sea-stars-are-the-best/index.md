@@ -1,15 +1,20 @@
 ---
-title: Sea Stars are the best
+title: Shallow-water Asteroidea (Echinodermata) of the remote oceanic
+  archipelago Trindade and Martin Vaz, southeastern Atlantic, with taxonomic and
+  zoogeographical notes
 publication_types:
-  - "0"
   - "2"
 authors:
-  - Rosana
+  - Cunha
+  - R.; Tavares
+  - M. & Braga
+  - J.
+publication: Zootaxa
 draft: false
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2020-12-29T00:15:08.594Z
+date: 2020-12-29T03:54:39.749Z
 ---
