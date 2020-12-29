@@ -23,8 +23,8 @@ item:
     organization_url: 'https://www.mz.usp.br'
     title: Review of the genus _Narcissia_ Gray, 1840 (Echinodermata, Asteroidea): from morphology to taxonomy
     url: ''
-    certificate_url: 'https://www.coursera.org'
-    date_start: '2019'
+    certificate_url: 'https://www.mz.usp.br'
+    date_start: '2019-03-01'
     date_end: ''
     description: ''
   - organization: edX
