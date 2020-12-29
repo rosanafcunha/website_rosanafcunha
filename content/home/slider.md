@@ -12,16 +12,14 @@ interval: false
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-height: 350px
+height: 600px
 
 
 item:
   - overlay_color: '#666'  # An HTML color value.
     overlay_img: Tomo.png  # Image path relative to your `static/media/` folder
     overlay_filter: 0  # Darken the image. Value in range 0-1.
-  - overlay_color: '#666'  # An HTML color value.
-    overlay_img: mar.jpg  # Image path relative to your `static/media/` folder
-    overlay_filter: 0  # Darken the image. Value in range 0-1.
+  
     
   
 ---
