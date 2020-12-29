@@ -22,19 +22,19 @@ content:
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
   # Filter on criteria
-  filters:
-    tag: 'Shallow-water Asteroidea (Echinodermata) of the remote oceanic archipelago Trindade and Martin Vaz, southeastern Atlantic, with taxonomic andzoogeographical notes'
-    category: '2020'
-    publication_type: 'Zootaxa'
-    author: 'Cunha, R.; Tavares, M. & Braga, J.'
-    exclude_featured: true
+  #filters:
+  #  tag: 'Shallow-water Asteroidea (Echinodermata) of the remote oceanic archipelago Trindade and Martin Vaz, southeastern Atlantic, with taxonomic andzoogeographical notes'
+  #  category: '2020'
+  #  publication_type: 'Zootaxa'
+  #  author: 'Cunha, R.; Tavares, M. & Braga, J.'
+  #  exclude_featured: true
 design:
   # Choose a view for the listings:
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 4
+  view: 1
 ---
 
 {{% callout note %}}
