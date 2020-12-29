@@ -5,9 +5,10 @@ role: Master in Systematics, Animal Taxonomy, and Biodiversity Museum of
 avatar_filename: avatar.png
 bio: ""
 interests:
-  - Phylogenomics   Asteroidea - Marine Invertebrates   Evolutionary
-    Biology   Marine Biogeography   Taxonomy
-  - Phylogeny and Morphology of Asteroidea
+  - Phylogenomics
+  - Evolutionary Biology
+  - Marine Biogeography
+  - Asteroidea - Marine Invertebrates
 social:
   - display:
       header: false
