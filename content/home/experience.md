@@ -54,16 +54,18 @@ experience:
     date_end: '2015-08-18'
     description: 'Organized, cataloged and computerized the collections of invertebrates'
     
-    - title: 'Internship'
-    company: 'Laboratory of Biology of Porifera and Associated Fauna, Universidade Federal da Bahia'
-    company_url: 'https://www.ufba.br/'
-    location: 'Salvador, Bahia, Brazil'
-    date_start: '2012-12-01'
-    date_end: '2013-12-01'
-    description: |2-
+    - title: 'CEO'
+    company: 'GenCoin'
+    company_url: ''
+    location: 'California'
+    date_start: '2017-01-01'
+    date_end: ''
+    description: >-
         Responsibilities include:
         
-       Identified species using microscope and specific literature
-       Extracted, amplified and decoded DNA using PCR technique
-        
+        * Analysing
+        * Modelling
+        * Deploying
+    
+   
 ---
