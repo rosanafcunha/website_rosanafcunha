@@ -46,4 +46,12 @@ experience:
     date_end: '2018-11-01'
     description: 'Performed morphological studies of all the specimens of _Narcissia_ Gray, 1840'
     
+  - title: 'Fellowship'
+    company: 'National Museum of Natural History, Smithsonian Institution'
+    company_url: 'https://naturalhistory.si.edu/'
+    location: 'Washington D.C., United States'
+    date_start: '2018-08-01'
+    date_end: '2018-11-01'
+    description: 'Performed morphological studies of all the specimens of _Narcissia_ Gray, 1840'
+    
 ---
