@@ -43,5 +43,13 @@ item:
     date_start: '2013-05-01'
     date_end: ''
     description: '4th Brazilian Congress of Marine Biology, Florianopólis, Brazil'
+  - organization: Talk
+    organization_url: ''
+    title: 'Virtual Zoology Museum - UFBA: Popularization of Knowledge about the Phylum Echinodermata'
+    url: ''
+    certificate_url: ''
+    date_start: '2012-03-01'
+    date_end: ''
+    description: '29th Brazilian Congress of Zoology, Salvador, Brazil'
     
 ---
