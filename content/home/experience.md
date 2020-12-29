@@ -46,4 +46,14 @@ experience:
     date_end: '2018-11-01'
     description: 'Performed morphological studies of all the specimens of _Narcissia_ Gray, 1840'
     
+    - title: 'Summer Internship'
+    company: 'Museum of Comparative Zoology, Harvard University'
+    company_url: 'https://mcz.harvard.edu/'
+    location: 'Cambridge, Massachusetts'
+    date_start: '2015-05-25'
+    date_end: '2015-08-14'
+    description: >-
+     Organized, cataloged and computerized some collections of invertebrates
+     Identified species of the Asteroidea Class present in the collection
+    
 ---
