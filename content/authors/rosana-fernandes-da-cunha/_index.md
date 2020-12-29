@@ -2,7 +2,7 @@
 title: Rosana Cunha
 role: Master in Systematics, Animal Taxonomy, and Biodiversity Museum of
   Zoology, University of São Paulo (MZUSP)
-avatar_filename: avatar.png
+avatar_filename: figura-1.jpg
 bio: ""
 social:
   - display:
