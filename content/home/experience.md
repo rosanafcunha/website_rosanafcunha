@@ -61,5 +61,5 @@ experience:
     date_start: '2012-12-01'
     date_end: '2013-12-01'
     description: 'Identified species using microscope and specific literature; extracted, amplified and decoded DNA using PCR technique'
-    
+
 ---
