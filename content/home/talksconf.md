@@ -20,7 +20,7 @@ date_format: Jan 2006
 #   Begin/end multi-line descriptions with `>-`.
 item:
   - organization: Coursera
-    #organization_url: 'https://www.coursera.org'
+    organization_url: 'https://www.coursera.org'
     #title: Revision of the genus _Narcissia_ Gray, 1840 (Echinodermata,Asteroidea): from morphology to taxonomy
     url: ''
     certificate_url: 'https://www.coursera.org'
