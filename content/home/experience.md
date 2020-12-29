@@ -29,7 +29,7 @@ experience:
     date_start: '2020-08-01'
     date_end: ''
     description: 'Review scientific papers'
-
+    
   - title: 'Assistant Collection Manager'
     company: 'Swedish Museum of Natural History'
     company_url: 'https://www.nrm.se/'
@@ -38,7 +38,7 @@ experience:
     date_end: '2019-10-01'
     description: 'Marine Invertebrate Collections - Volunteer Job'
     
-    - title: 'Fellowship'
+  - title: 'Fellowship'
     company: 'National Museum of Natural History, Smithsonian Institution'
     company_url: 'https://naturalhistory.si.edu/'
     location: 'Washington D.C., United States'
