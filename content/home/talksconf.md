@@ -7,27 +7,26 @@ weight: 60
 
 title: Talks and Conference Activity
 
-
 # ... Put Your Section Options Here (title etc.) ...
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
-#   Accomplishments.
+# Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with `>-`.
 item:
-  - organization: 3rd Graduate Meeting of the Museum of Zoology of the University of São Paulo
-    organization_url: 'https://www.mz.usp.br'
-    title: Review of the genus _Narcissia_ Gray, 1840 (Echinodermata, Asteroidea): from morphology to taxonomy
+  - organization: Coursera
+    organization_url: 'https://www.coursera.org'
+    title: Neural Networks and Deep Learning
     url: ''
-    certificate_url: 'https://www.mz.usp.br'
-    date_start: '2019-03-01'
+    certificate_url: 'https://www.coursera.org'
+    date_start: '2018-10-01'
     date_end: ''
-    description: 'Cunha, R. & Tavares, M.'
+    description: ''
   - organization: edX
     organization_url: 'https://www.edx.org'
     title: Blockchain Fundamentals
