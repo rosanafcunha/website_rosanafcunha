@@ -21,20 +21,21 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-# experience:
-#  - title: 'Peer-review'
-#    company: 'Revista de Biología Tropical, University of Costa Rica'
-#    company_url: 'https://revistas.ucr.ac.cr/'
-#    location: 'Costa Rica'
-#    date_start: '2020-08-01'
-#    date_end: ''
-#    description: 'Review scientific papers'
-#
-#  - title: Assistant Collection Manager
-#    company: Swedish Museum of Natural History
-#    company_url: 'https://www.nrm.se/'
-#    location: Stockholm, Sweden
-#    date_start: '2019-09-01'
-#    date_end: '2019-10-01'
-#    description: Marine Invertebrate Collections - Volunteer Job
+experience:
+  - title: 'Peer-review'
+    company: 'Revista de Biología Tropical, University of Costa Rica'
+    company_url: 'https://revistas.ucr.ac.cr/'
+    location: 'Costa Rica'
+    date_start: '2020-08-01'
+    date_end: ''
+    description: 'Review scientific papers'
+
+  - title: Assistant Collection Manager
+    company: Swedish Museum of Natural History
+    company_url: 'https://www.nrm.se/'
+    location: Stockholm, Sweden
+    date_start: '2019-09-01'
+    date_end: '2019-10-01'
+    description: 'Marine Invertebrate Collections - Volunteer Job'
+    
 ---
