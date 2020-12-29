@@ -19,17 +19,8 @@ item:
   - overlay_color: '#666'  # An HTML color value.
     overlay_img: face.jpg  # Image path relative to your `static/media/` folder
     overlay_filter: 0  # Darken the image. Value in range 0-1.
-  - title: Left
-    content: 'I am left aligned 😄'
-    align: left
-    overlay_color: '#555'
-    overlay_img: ''
-    overlay_filter: 0.5
-  - title: Right
-    content: 'I am right aligned 😄'
-    align: right
-    overlay_color: '#333'
-    overlay_img: ''
-    overlay_filter: 0.5
+  - overlay_color: '#666'  # An HTML color value.
+    overlay_img: 3dmmdemo.png  # Image path relative to your `static/media/` folder
+    overlay_filter: 0  # Darken the image. Value in range 0-1.
     
 ---
