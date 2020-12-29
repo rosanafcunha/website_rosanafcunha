@@ -26,7 +26,7 @@ item:
     certificate_url: ''
     date_start: '2019-03-01'
     date_end: ''
-    description: '3rd Graduate Meeting of the Museum of Zoology of the University of São Paulo'
+    description: '3rd Graduate Meeting of the Museum of Zoology of the University of São Paulo, São Paulo, Brazil'
   - organization: Poster
     organization_url: ''
     title: 'Morphology of _Narcissia trigonaria_ Sladen, 1889 (Asteroidea: Ophidiasteridae): a taxonomic problem?'
@@ -35,13 +35,13 @@ item:
     date_start: '2013-10-01'
     date_end: ''
     description: '2nd Latin American Congress of Echinoderms, São Sebastião, Brazil'
-  - organization: DataCamp
-    organization_url: 'https://www.datacamp.com'
-    title: 'Object-Oriented Programming in R: S3 and R6 Course'
+  - organization: Poster
+    organization_url: ''
+    title: 'First Record of _Asterinides folium_ (Lütken, 1860) for Northeastern Brazil'
     url: ''
-    certificate_url: 'https://www.datacamp.com'
-    date_start: '2017-07-01'
-    date_end: '2017-12-21'
-    description: ''
+    certificate_url: ''
+    date_start: '2013-05-01'
+    date_end: ''
+    description: '4th Brazilian Congress of Marine Biology, Florianopólis, Brazil'
     
 ---
