@@ -21,12 +21,12 @@ date_format: Jan 2006
 item:
   - organization: 3rd Graduate Meeting of the Museum of Zoology of the University of São Paulo
     organization_url: 'https://www.mz.usp.br'
-    title: 'Revision of the genus _Narcissia_ Gray, 1840 (Echinodermata,Asteroidea): from morphology to taxonomy'
+    title: 'Revision of the genus _Narcissia_ Gray, 1840 (Echinodermata, Asteroidea): from morphology to taxonomy'
     url: ''
     certificate_url: ''
     date_start: '2019-03-01'
     date_end: ''
-    description: ''
+    description: 'Poster'
   - organization: edX
     organization_url: 'https://www.edx.org'
     title: Blockchain Fundamentals
