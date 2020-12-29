@@ -51,7 +51,19 @@ experience:
     company_url: 'https://mcz.harvard.edu/'
     location: 'Cambridge, Massachusetts'
     date_start: '2015-05-25'
-    date_end: '2018-08-18'
+    date_end: '2015-08-18'
     description: 'Organized, cataloged and computerized the collections of invertebrates'
     
+    - title: 'Internship'
+    company: 'Laboratory of Biology of Porifera and Associated Fauna, Universidade Federal da Bahia'
+    company_url: 'https://www.ufba.br/'
+    location: 'Salvador, Bahia, Brazil'
+    date_start: '2012-12-01'
+    date_end: '2013-12-01'
+    description: >-2
+        Responsibilities include:
+        
+       * Identified species using microscope and specific literature
+       * Extracted, amplified and decoded DNA using PCR technique
+        
 ---
