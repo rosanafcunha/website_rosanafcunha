@@ -62,5 +62,4 @@ experience:
     date_end: '2015-08-18'
     description: 'Organized, cataloged and computerized the collections of invertebrates'
     
-
----
+    ---
