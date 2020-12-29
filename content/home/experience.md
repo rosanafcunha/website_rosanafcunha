@@ -54,11 +54,4 @@ experience:
     date_end: '2015-08-18'
     description: 'Organized, cataloged and computerized the collections of invertebrates'
     
-    - title: 'Summer Internship'
-    company: 'Museum of Comparative Zoology, Harvard University'
-    company_url: 'https://mcz.harvard.edu/'
-    location: 'Cambridge, Massachusetts'
-    date_start: '2015-05-25'
-    date_end: '2015-08-18'
-    description: 'Organized, cataloged and computerized the collections of invertebrates'
    ---
