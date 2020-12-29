@@ -52,10 +52,6 @@ experience:
     location: 'Cambridge, Massachusetts'
     date_start: '2015-05-25'
     date_end: '2015-08-14'
-    description: >-
-        Responsibilities include:
-        
-       Organized, cataloged and computerized some collections of invertebrates
-       Identified species of the Asteroidea Class present in the collection
+    description: 
     
 ---
