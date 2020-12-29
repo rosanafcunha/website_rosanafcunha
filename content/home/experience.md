@@ -59,13 +59,13 @@ experience:
     company_url: ''
     location: 'California'
     date_start: '2017-01-01'
-    date_end: ''
+    date_end: '2017-02-01'
     description: >-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+       * Analysing
+       * Modelling
+       * Deploying
     
    
 ---
