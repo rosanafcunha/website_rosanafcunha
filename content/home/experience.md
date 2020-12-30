@@ -72,6 +72,19 @@ experience:
         
         * Identified species using microscope and specific literature
         * Extracted, amplified and decoded DNA using PCR technique
+ 
+  - title: 'Internship'
+    company: 'Laboratory of Biology of Porifera and Associated Fauna, Universidade Federal da Bahia'
+    company_url: 'https://www.ufba.br/'
+    location: 'Salvador, Bahia, Brazil'
+    date_start: '2011-12-01'
+    date_end: '2012-12-01'
+    description: |3-
+        Responsibilities include:
+        
+        * Developed web page on Phylum Echinodermata
+        * Participated in fieldwork to collect marine invertebrates
+        * Presented results at scientific conferences
         
      
     
