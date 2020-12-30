@@ -36,6 +36,6 @@ design:
   #   4 = Citation (publication only)
   view: 4
   
-  {{% staticref "rosanafcunha:content:home:home.pdf" %}}Download my rosanafcunha:content:home:home{{% /staticref %}}
+  # {{% staticref "rosanafcunha:content:home:home.pdf" %}}Download my rosanafcunha:content:home:home{{% /staticref %}}
 ---
 
