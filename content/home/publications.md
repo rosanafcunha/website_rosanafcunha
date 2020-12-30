@@ -36,7 +36,7 @@ design:
   #   4 = Citation (publication only)
   view: 4
   
-  # <embed src="https://github.com/rosanafcunha/rosanafcunha/tree/master/static/files/Cunha et al 2020.pdf" type="application/pdf" />
+  # <embed src="https://github.com/rosanafcunha/rosanafcunha/blob/master/static/files/Cunha%20et%20al%202020.pdf" type="application/pdf" />
   
 ---
 
