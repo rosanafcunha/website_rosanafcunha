@@ -67,7 +67,7 @@ experience:
     location: 'Salvador, Bahia, Brazil'
     date_start: '2012-12-01'
     date_end: '2013-12-01'
-    description: >-
+    description: |2-
         Responsibilities include:
         
         * Identified species using microscope and specific literature
