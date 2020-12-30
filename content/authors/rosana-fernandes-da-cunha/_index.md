@@ -48,9 +48,6 @@ education:
     - course: BSc in Biological Sciences
       institution: Universidade Federal da Bahia
       year: 2016
-    - course: BSc in Biological Sciences
-      institution: Fairleigh Dickinson University
-      year: 2015
     - course: Teacher Licensure in Biological Sciences
       institution: Universidade Federal da Bahia
       year: 2013
