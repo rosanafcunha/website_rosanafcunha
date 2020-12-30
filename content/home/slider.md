@@ -20,7 +20,7 @@ item:
     overlay_img: Tomo.png  # Image path relative to your `static/media/` folder
     overlay_filter: 0  # Darken the image. Value in range 0-1.
   - overlay_color: '#666'  # An HTML color value.
-    overlay_img: hadju.jpg  # Image path relative to your `static/media/` folder
+    overlay_img: hadju_640x453.jpg  # Image path relative to your `static/media/` folder
     overlay_filter: 0  # Darken the image. Value in range 0-1.
   - overlay_color: '#666'  # An HTML color value.
     overlay_img: sampaio.jpg  # Image path relative to your `static/media/` folder
