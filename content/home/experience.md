@@ -37,6 +37,14 @@ experience:
     date_end: '2019-10-01'
     description: 'Marine Invertebrate Collections - Volunteer Job'
     
+  - title: 'Taxonomic Specialist'
+    company: 'Chico Mendes Institute for Biodiversity Conservation, Brazil (ICMBio)'
+    company_url: 'https://www.icmbio.gov.br/'
+    location: 'Itajaí, Santa Catarina, Brazil'
+    date_start: '2018-02-28'
+    date_end: '2018-03-02'
+    description: 'Identification of the Sea Stars collected in Santa Catarina, Brazil'
+    
   - title: 'Fellowship'
     company: 'National Museum of Natural History, Smithsonian Institution'
     company_url: 'https://naturalhistory.si.edu/'
