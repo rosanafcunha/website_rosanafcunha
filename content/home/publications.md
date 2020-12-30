@@ -36,7 +36,7 @@ design:
   #   4 = Citation (publication only)
   view: 4
   
-  # {{% staticref "files/rosanafcunha:content:home:home.pdf" "newtab" %}}Download my rosanafcunha:content:home:home{{% /staticref %}}
+  # {{% staticref "files/Cunha et al 2020.pdf" "newtab" %}}Download my Cunha et al 2020.pdf{{% /staticref %}}
   
 ---
 
