@@ -45,8 +45,8 @@ experience:
     date_end: '2018-11-01'
     description: 'Performed morphological studies of all the specimens of _Narcissia_ Gray, 1840'
 
-#   - title: 'Summer Internship'
-#    company: 'National Museum of Natural History, Smithsonian Institution'
-#    date_start: '2018-08-01'
+   - title: 'Summer Internship'
+    company: 'National Museum of Natural History, Smithsonian Institution'
+    date_start: '2018-08-01'
     
 ---
