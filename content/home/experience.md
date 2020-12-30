@@ -68,7 +68,7 @@ experience:
     date_start: '2012-12-01'
     date_end: '2013-12-01'
     description: |2-
-        Responsibilities include:
+        Responsibilities included:
         
         * Identified species using microscope and specific literature
         * Extracted, amplified and decoded DNA using PCR technique
@@ -80,7 +80,7 @@ experience:
     date_start: '2011-12-01'
     date_end: '2012-12-01'
     description: |3-
-        Responsibilities include:
+        Responsibilities included:
         
         * Developed web page on Phylum Echinodermata
         * Participated in fieldwork to collect marine invertebrates
@@ -93,7 +93,7 @@ experience:
     date_start: '2009-12-01'
     date_end: '2011-12-01'
     description: |2-
-        Responsibilities include:
+        Responsibilities included:
         
         * Used techniques of curation for preservation of scientific material
         * Utilized Access to catalogue the collection
