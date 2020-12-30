@@ -53,6 +53,7 @@ experience:
     date_start: '2015-05-25'
     date_end: '2015-08-18'
     description: 'Organized, cataloged and computerized the collections of invertebrates'
+    
     - title: 'Internship'
     company: 'Laboratory of Biology of Porifera and Associated Fauna, Universidade Federal da Bahia'
     company_url: 'https://www.ufba.br/'
