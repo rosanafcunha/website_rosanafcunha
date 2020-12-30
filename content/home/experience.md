@@ -27,7 +27,7 @@ experience:
     location: 'Costa Rica'
     date_start: '2020-08-01'
     date_end: ''
-    description: 'Review scientific papers'
+    description: 'Reviewing scientific papers'
     
   - title: 'Assistant Collection Manager'
     company: 'Swedish Museum of Natural History'
@@ -35,7 +35,7 @@ experience:
     location: 'Stockholm, Sweden'
     date_start: '2019-09-01'
     date_end: '2019-10-01'
-    description: 'Marine Invertebrate Collections - Volunteer Job'
+    description: 'Volunteer Job - Marine Invertebrate Collections'
     
   - title: 'Taxonomic Specialist'
     company: 'Chico Mendes Institute for Biodiversity Conservation (ICMBio)'
