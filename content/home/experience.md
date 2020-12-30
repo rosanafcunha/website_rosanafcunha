@@ -86,6 +86,19 @@ experience:
         * Participated in fieldwork to collect marine invertebrates
         * Presented results at scientific conferences
         
+  - title: 'Internship'
+    company: 'Museum of Zoology, Universidade Federal da Bahia'
+    company_url: 'https://www.ufba.br/'
+    location: 'Salvador, Bahia, Brazil'
+    date_start: '2009-12-01'
+    date_end: '2011-12-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Used techniques of curation for preservation of scientific material
+        * Utilized Access to catalogue the collection
+        
+        
      
     
 ---
