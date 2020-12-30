@@ -8,7 +8,7 @@ interests:
   - Phylogenomics
   - Evolutionary Biology
   - Marine Biogeography
-  - Asteroidea - Marine Invertebrates
+  - Marine Invertebrates (Asteroidea)
 social:
   - display:
       header: false
