@@ -35,5 +35,10 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 4
+links:
+  - icon_pack: fab
+    icon: pdf
+    name: Originally published on Biotaxa
+    url: 'https://www.biotaxa.org/Zootaxa/article/view/zootaxa.4742.1.2'
 ---
 
