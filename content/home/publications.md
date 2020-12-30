@@ -36,7 +36,7 @@ design:
   #   4 = Citation (publication only)
   view: 4
   
-  # {{% staticref "static/files/Cunha et al 2020.pdf" "newtab" %}}(PDF){{% /staticref %}}
+  # <embed src="https://github.com/rosanafcunha/rosanafcunha/tree/master/static/files/Cunha et al 2020.pdf" type="application/pdf" />
   
 ---
 
