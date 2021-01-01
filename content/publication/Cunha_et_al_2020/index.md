@@ -17,4 +17,7 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2020-12-29T03:54:39.749Z
+links:
+ - name: Journal Page
+   url: https://www.biotaxa.org/Zootaxa/article/view/zootaxa.4742.1.2
 ---
