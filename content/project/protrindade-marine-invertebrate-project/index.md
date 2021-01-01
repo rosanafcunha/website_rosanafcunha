@@ -7,5 +7,8 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
+links:
+ - name: PDF
+   url: https://www.biotaxa.org/Zootaxa/article/view/zootaxa.4742.1.2
 ---
 Expansion of the number of research projects under development in the Brazilian Ocean Islands.
