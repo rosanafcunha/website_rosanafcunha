@@ -22,7 +22,7 @@ item:
   - organization: Poster
     organization_url: 'https://www.mz.usp.br'
     title: 'Revision of the Genus _Narcissia_ Gray, 1840 (Echinodermata, Asteroidea): from Morphology to Taxonomy'
-    url: 'media/CBZ 1.jpg'
+    url: 'media/mzusp.jpg'
     certificate_url: ''
     date_start: '2019-03-01'
     date_end: ''
@@ -30,7 +30,7 @@ item:
   - organization: Poster
     organization_url: ''
     title: 'Morphology of _Narcissia trigonaria_ Sladen, 1889 (Asteroidea: Ophidiasteridae): a Taxonomic Problem?'
-    url: ''
+    url: 'media/cle.jpg'
     certificate_url: ''
     date_start: '2013-10-01'
     date_end: ''
@@ -38,7 +38,7 @@ item:
   - organization: Poster
     organization_url: ''
     title: 'First Record of _Asterinides folium_ (Lütken, 1860) for Northeastern Brazil'
-    url: ''
+    url: 'media/Certificado CBBM Trab Echinod.jpg'
     certificate_url: ''
     date_start: '2013-05-01'
     date_end: ''
@@ -46,7 +46,7 @@ item:
   - organization: Talk
     organization_url: ''
     title: 'Virtual Zoology Museum - UFBA: Popularization of Knowledge about the Phylum Echinodermata'
-    url: ''
+    url: 'media/CBZ 1.jpg'
     certificate_url: ''
     date_start: '2012-03-01'
     date_end: ''
