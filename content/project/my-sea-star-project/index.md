@@ -4,7 +4,7 @@ date: 2021-01-01T03:39:54.987Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: seastar
   focal_point: Smart
   preview_only: false
 ---
