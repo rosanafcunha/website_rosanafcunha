@@ -5,9 +5,8 @@ summary: Expansion of the number of research projects under development in the
   Brazilian Ocean Islands.
 draft: false
 featured: false
+url_pdf: 'protrindade-marine-invertebrate-project/Cunha_et_al_2020.pdf'
 links:
-  - name: PDF
-    url_pdf: 'protrindade-marine-invertebrate-project/Cunha_et_al_2020.pdf'
   - name: Journal Page
     url: https://www.biotaxa.org/Zootaxa/article/view/zootaxa.4742.1.2
 image:
