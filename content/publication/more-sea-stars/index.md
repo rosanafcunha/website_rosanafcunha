@@ -3,8 +3,8 @@ title: more sea stars
 publication_types:
   - "0"
 draft: false
-url_pdf: 'static/files/Cunha_Rosana-Pub1.pdf'
-url_custom: 'www.google.com'
+url_pdf: 'files/Cunha_Rosana-Pub1.pdf'
+links: 'www.google.com'
 featured: false
 image:
   filename: featured
