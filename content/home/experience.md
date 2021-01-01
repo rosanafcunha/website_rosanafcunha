@@ -61,6 +61,14 @@ experience:
     date_end: '2015-08-18'
     description: 'Organized, cataloged and computerized the collections of invertebrates'
     
+  - title: 'Teaching'
+    company: 'State Center for Vocational Education in Health and Management'
+    company_url: 'http://escolas.educacao.ba.gov.br/node/12684'
+    location: 'Guanambi, Bahia, Brazil'
+    date_start: '2014-04-01'
+    date_end: '2014-06-01'
+    description: 'High School Teacher: Environmental Control and Environmental Impact Management'
+    
   - title: 'Internship'
     company: 'Laboratory of Biology of Porifera and Associated Fauna, Universidade Federal da Bahia'
     company_url: 'https://www.ufba.br/'
