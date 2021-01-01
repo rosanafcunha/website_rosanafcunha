@@ -24,6 +24,7 @@ item:
     title: 'Revision of the Genus _Narcissia_ Gray, 1840 (Echinodermata, Asteroidea): from Morphology to Taxonomy'
     url: ''
     certificate_url: ''
+    url_pdf: 'files/Cunha_Rosana-Pub1.pdf'
     date_start: '2019-03-01'
     date_end: ''
     description: '3rd Graduate Meeting of the Museum of Zoology of the University of São Paulo, São Paulo, Brazil'
