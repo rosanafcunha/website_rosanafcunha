@@ -8,7 +8,7 @@ image:
   focal_point: Smart
   preview_only: false
 links:
- - name: PDF
-   url: files/Cunha_et_al_2020.pdf.pdf
+ - name: Journal Page
+   url: https://rosanacunha.netlify.app/files/Cunha_Rosana-Pub1.pdf
 ---
 Expansion of the number of research projects under development in the Brazilian Ocean Islands.
