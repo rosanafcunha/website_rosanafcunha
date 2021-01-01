@@ -3,6 +3,7 @@ title: more sea stars
 publication_types:
   - "0"
 draft: false
+url: 'www.google.com'
 featured: false
 image:
   filename: featured
