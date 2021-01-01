@@ -3,7 +3,7 @@ title: more sea stars
 publication_types:
   - "0"
 draft: false
-url: 'www.google.com'
+url_pdf: 'static/files/Cunha%20et%20al%202020.pdf'
 featured: false
 image:
   filename: featured
