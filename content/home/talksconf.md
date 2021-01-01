@@ -22,7 +22,7 @@ item:
   - organization: Poster
     organization_url: 'https://www.mz.usp.br'
     title: 'Revision of the Genus _Narcissia_ Gray, 1840 (Echinodermata, Asteroidea): from Morphology to Taxonomy'
-    url: 'files/Cunha_et_al_2020.pdf.pdf'
+    url: 'files/Cunha_et_al_2020.pdf'
     certificate_url: ''
     date_start: '2019-03-01'
     date_end: ''
