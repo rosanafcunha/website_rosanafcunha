@@ -1,13 +1,13 @@
 ---
-widget: blank
-headless: true
-title: Research
-weight: 30
-design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '2'
+
+widget: portfolio
+headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
+
+title: Research
+
+weight: 30
 
 content:
   # Page type to display. E.g. project.
@@ -39,4 +39,3 @@ design:
   view: 3
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
----
