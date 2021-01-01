@@ -7,7 +7,7 @@ draft: false
 featured: false
 links:
   - name: PDF
-    url: 'protrindade-marine-invertebrate-project/Cunha_et_al_2020.pdf'
+    url: protrindade-marine-invertebrate-project/Cunha_et_al_2020.pdf
   - name: Journal Page
     url: https://www.biotaxa.org/Zootaxa/article/view/zootaxa.4742.1.2
 image:
