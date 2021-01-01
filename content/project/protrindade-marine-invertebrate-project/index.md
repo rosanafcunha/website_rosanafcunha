@@ -9,6 +9,6 @@ image:
   preview_only: false
 links:
  - name: Journal Page
-   url: https://rosanacunha.netlify.app/files/Cunha_Rosana-Pub1.pdf
+   url: https://www.biotaxa.org/Zootaxa/article/view/zootaxa.4742.1.2
 ---
 Expansion of the number of research projects under development in the Brazilian Ocean Islands.
