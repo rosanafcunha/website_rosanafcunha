@@ -9,6 +9,6 @@ image:
   preview_only: false
 links:
  - name: PDF
-   url: 'files/Cunha_et_al_2020.pdf.pdf'
+   url: files/Cunha_et_al_2020.pdf.pdf
 ---
 Expansion of the number of research projects under development in the Brazilian Ocean Islands.
