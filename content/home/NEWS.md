@@ -10,5 +10,5 @@ design:
   background:
     gradient_start: "#1968c7"
     gradient_end: "#589ae2"
-    image: Presentation1_1500x540.jpg
+    image: ""
 ---
