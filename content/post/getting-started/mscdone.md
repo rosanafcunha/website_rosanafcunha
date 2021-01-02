@@ -8,6 +8,11 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 
+image:
+  filename: featured.jpg
+  focal_point: Smart
+  preview_only: false
+
 ---
 
 Today I have presented my work, the results of 27 months of intense research at the Museum of Zoology of the University of São Paulo! 
