@@ -1,13 +1,16 @@
 ---
-widget: Pages
-widget_id: NEWS
-headless: true
-weight: 70
-title: NEWS
+# An instance of the About widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: NEWS
+
+# Activate this widget? true/false
 active: true
-design:
-  columns: ""
-  background:
-    text_color_light: false
-    image_darken: 0
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 70
+
+title: NEWS
 ---
