@@ -1,12 +1,13 @@
 ---
-
-# This file represents a page section.
+widget: Pages
+widget_id: NEWS
 headless: true
-
-# Order that this section appears on the page.
 weight: 70
-
 title: NEWS
-subtitle:
-
+active: true
+design:
+  columns: ""
+  background:
+    text_color_light: false
+    image_darken: 0
 ---
