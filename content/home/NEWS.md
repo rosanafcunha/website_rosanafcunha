@@ -1,14 +1,8 @@
 ---
-# An instance of the Pages widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
-
-# This file represents a page section.
+widget_id: Recent posts
 headless: true
-
-# Order that this section appears on the page.
 weight: 80
-
 title: NEWS
-subtitle: ''
+subtitle: "Master's Degree done! "
 ---
