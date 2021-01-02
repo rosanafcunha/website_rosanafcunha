@@ -8,7 +8,7 @@ subtitle: "Master's Degree done! "
 active: true
 design:
   background:
-    gradient_start: rgba(25, 104, 199, 0.13)
-    gradient_end: rgba(88, 154, 226, 0.29)
+    gradient_start: rgba(25, 104, 199, 0)
+    gradient_end: rgba(88, 154, 226, 0)
     image: ""
 ---
