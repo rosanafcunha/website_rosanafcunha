@@ -1,8 +1,12 @@
 ---
+# Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
-widget_id: ab
+
+# This file represents a page section.
 headless: true
+
+# Order that this section appears on the page.
 weight: 70
+
 title: NEWS
-subtitle: null
 ---
