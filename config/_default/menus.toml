@@ -27,6 +27,11 @@
   name = "Talks and Conference Activity"
   url = "#talksconf"
   weight = 50
+  
+[[main]]
+  name = "NEWS"
+  url = "#NEWS"
+  weight = 60
 
 [[main]]
   name = "Contact"
