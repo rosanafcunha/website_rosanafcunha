@@ -8,10 +8,6 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 
-# Optional header image (relative to `static/media/` folder).
-header:'media/msc2.jpg'
-  caption: ""
-  image: ""
 ---
 
 Today I have presented my work, the results of 27 months of intense research at the Museum of Zoology of the University of São Paulo! 
