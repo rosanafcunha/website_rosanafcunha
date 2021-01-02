@@ -8,10 +8,9 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 
-image:
-  filename: featured.jpg
-  focal_point: Smart
-  preview_only: false
+header:
+  image: "static/media/msc2.jpg"
+  caption: ""
 
 ---
 
