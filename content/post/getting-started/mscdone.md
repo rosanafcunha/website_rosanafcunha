@@ -3,7 +3,7 @@ reading_time: false
 summary: Museum of Zoology of the University of São Paulo
 profile: false
 header:
-  image: static/media/msc2.jpg
+  image: featured.jpg
   caption: ""
 date: 2019-05-28T00:00:00Z
 comments: false
@@ -12,7 +12,7 @@ image:
   filename: featured.jpg
   preview_only: true
   focal_point: RIGHT
-share: false
+share: true
 ---
 
 Today I have presented my work, the results of 27 months of dedication and intense research! 
