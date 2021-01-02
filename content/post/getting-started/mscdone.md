@@ -10,7 +10,9 @@ comments: false
 title: Master’s Degree done!
 image:
   filename: featured.jpg
-share: true
+  preview_only: true
+  focal_point: RIGHT
+share: false
 ---
 
 Today I have presented my work, the results of 27 months of dedication and intense research! 
