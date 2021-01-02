@@ -1,7 +1,8 @@
 ---
 type: widget_page
-widget: NEWS
-widget_id: RECENT POST
+widget: pages
+widget_id: recent-post
 headless: true
 weight: 60
+title: NEWS
 ---
