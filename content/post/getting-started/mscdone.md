@@ -9,7 +9,7 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 
 # Optional header image (relative to `static/media/` folder).
-header:'static/media/msc2.jpg'
+header:'media/msc2.jpg'
   caption: ""
   image: ""
 ---
