@@ -5,8 +5,8 @@ profile: false
 date: 2019-05-28T00:00:00Z
 comments: false
 title: Master’s Degree done
+image: "https://raw.githubusercontent.com/rosanafcunha/rosanafcunha/master/content/post/getting-started/msc2.png"
 ---
-[!{% img right $url %}](mini-img-url)
 ---
 Today I have presented my work, the results of 27 months of dedication and intense research! 
 I have learned a lot during this time, and I am very pround of my Thesis! I am grateful to all the people who, directly or indirectly, 
