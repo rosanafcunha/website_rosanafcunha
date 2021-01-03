@@ -7,7 +7,8 @@ publication_types:
   - citation_style = "apa"  
 authors:
   - Cunha R.;
-  - Tavares M. & Braga J.
+  - Tavares M.;
+  - Braga J.
 publication: _Zootaxa_
 draft: false
 featured: false
