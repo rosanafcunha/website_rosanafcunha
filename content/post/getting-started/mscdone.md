@@ -4,7 +4,7 @@ summary: Museum of Zoology of the University of São Paulo
 profile: false
 date: 2019-05-28T00:00:00Z
 comments: false
-title: Master’s Degree done
+title: Master’s Degree done!
 ---
 ---
 Today I have presented my work, the results of 27 months of dedication and intense research! 
