@@ -2,13 +2,13 @@
 reading_time: false
 summary: Museum of Zoology of the University of São Paulo
 profile: false
-header:
-  image: "static/media/msc2.jpg"
-  caption: ""
 date: 2019-05-28T00:00:00Z
 comments: false
 title: Master’s Degree done!
-image: featured.jpg
+image:
+  filename: featured.jpg
+  focal_point: Smart
+  preview_only: false
 ---
 ---
 Today I have presented my work, the results of 27 months of dedication and intense research! 
