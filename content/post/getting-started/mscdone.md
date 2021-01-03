@@ -3,7 +3,7 @@ reading_time: false
 summary: Museum of Zoology of the University of São Paulo
 profile: false
 header:
-  image: featured.jpg
+  image: "static/media/msc2.jpg"
   caption: ""
 date: 2019-05-28T00:00:00Z
 comments: false
