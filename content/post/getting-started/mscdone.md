@@ -5,6 +5,7 @@ profile: false
 date: 2019-05-28T00:00:00Z
 comments: false
 title: Master’s Degree done
+image:
 < img src="getting-started/msc2.png" width=100 >
 ---
 ---
