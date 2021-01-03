@@ -5,10 +5,7 @@ profile: false
 date: 2019-05-28T00:00:00Z
 comments: false
 title: Master’s Degree done!
-image:
-  filename: featured.jpg
-  focal_point: Smart
-  preview_only: false
+![picture 1 of my master](https://raw.githubusercontent.com/rosanafcunha/rosanafcunha/master/content/post/getting-started/msc2.png "Masters Degree")
 ---
 ---
 Today I have presented my work, the results of 27 months of dedication and intense research! 
