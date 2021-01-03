@@ -4,6 +4,7 @@ title: Shallow-water Asteroidea (Echinodermata) of the remote oceanic
   zoogeographical notes
 publication_types:
   - "2"
+citation_style = "apa"  
 authors:
   - Cunha R.;
   - Tavares M. & Braga J.
