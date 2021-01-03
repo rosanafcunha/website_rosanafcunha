@@ -6,6 +6,7 @@ date: 2019-05-28T00:00:00Z
 comments: false
 title: Master’s Degree done
 image: "msc2.png"
+focal_point: Right
 ---
 ---
 Today I have presented my work, the results of 27 months of dedication and intense research! 
