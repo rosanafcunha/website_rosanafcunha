@@ -473,8 +473,8 @@ date: 2019-05-28T00:00:00.000Z
 comments: false
 title: Master’s Degree done!
 image:
-  filename: featured.png
-  focal_point: Smart
-  preview_only: true
+  filename: ""
+  focal_point: ""
+  preview_only: false
 ---
 
