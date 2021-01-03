@@ -9,7 +9,7 @@ image:
   filename: msc2.png
   focal_point: Right
   preview_only: false
-  <img scr="getting-started/msc2.png" width=100>
+: <img scr="getting-started/msc2.png" width=100>
 ---
 ---
 Today I have presented my work, the results of 27 months of dedication and intense research! 
