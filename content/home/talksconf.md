@@ -19,14 +19,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with `>-`.
 item:
-  - organization: Poster
+  - organization: Museum of Zoology of the University of São Paulo
     organization_url: 'https://www.mz.usp.br'
     title: 'Revision of the Genus _Narcissia_ Gray, 1840 (Echinodermata, Asteroidea): from Morphology to Taxonomy'
     url: 'media/mzusp.jpg'
     certificate_url: ''
     date_start: '2019-03-01'
     date_end: ''
-    description: '3rd Graduate Meeting of the Museum of Zoology of the University of São Paulo, São Paulo, Brazil'
+    description: '3rd Graduate Meeting of the Museum of Zoology of the University of São Paulo, São Paulo, Brazil (Poster)'
   - organization: Poster
     organization_url: ''
     title: 'Morphology of _Narcissia trigonaria_ Sladen, 1889 (Asteroidea: Ophidiasteridae): a Taxonomic Problem?'
