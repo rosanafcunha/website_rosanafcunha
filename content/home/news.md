@@ -1,9 +1,5 @@
 ---
 widget: pages
-headless: true  # This file represents a page section.
-
-# ... Put Your Section Options Here (title etc.) ...
-
 widget_id: ab
 headless: true
 weight: 70
@@ -11,6 +7,11 @@ title: NEWS
 subtitle: ""
 ---
 ---
+widget: pages
+headless: true  # This file represents a page section.
+
+# ... Put Your Section Options Here (title etc.) ...
+
 content:
   # Page type to display. E.g. post, event, or publication.
   page_type: post
