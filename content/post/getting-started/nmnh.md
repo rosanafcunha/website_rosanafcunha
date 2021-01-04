@@ -1,6 +1,6 @@
 --- 
 reading_time: false
-summary: National Museum of Natural History
+summary: August 2018
 profile: false
 date: 2018-08-28T00:00:00.000Z
 comments: false
