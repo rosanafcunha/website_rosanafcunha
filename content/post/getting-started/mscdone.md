@@ -1,5 +1,5 @@
 ---
-[![Legenda](msc2.png)](https://rosanacunha.netlify.app/post/getting-started/mscdone/)] 
+[![Legenda](msc2.png)][(https://rosanacunha.netlify.app/post/getting-started/mscdone/)] 
 reading_time: false
 summary: Museum of Zoology of the University of São Paulo
 profile: false
