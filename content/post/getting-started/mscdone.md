@@ -28,7 +28,7 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)  
 view: 2
-url: 'media/msc2.jpg'
+url: https://raw.githubusercontent.com/rosanafcunha/rosanafcunha/master/content/post/getting-started/msc2.png
 ---
 
 ---
