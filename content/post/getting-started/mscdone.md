@@ -1,6 +1,6 @@
 --- 
 reading_time: false
-summary: 2019-05-02
+summary: May 2019
 profile: false
 date: 2019-05-01
 comments: false
