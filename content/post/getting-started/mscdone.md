@@ -1,11 +1,12 @@
 --- 
-[![picture 1 of my master](https://raw.githubusercontent.com/rosanafcunha/rosanafcunha/master/content/post/getting-started/msc2.png "Masters Degree")
 reading_time: false
 summary: Museum of Zoology of the University of São Paulo
 profile: false
 date: 2019-05-28T00:00:00.000Z
 comments: false
 title: Master’s Degree done!
+[![picture 1 of my master](https://raw.githubusercontent.com/rosanafcunha/rosanafcunha/master/content/post/getting-started/msc2.png "Masters Degree")
+
 ---
 
 ---
