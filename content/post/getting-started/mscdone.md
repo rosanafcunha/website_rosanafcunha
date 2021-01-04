@@ -2,7 +2,7 @@
 reading_time: false
 summary: Museum of Zoology of the University of São Paulo
 profile: false
-date: 2019-05-28T00:00:00.000Z
+date: 2019-05-01
 comments: false
 title: Master’s Degree done!
 ---
