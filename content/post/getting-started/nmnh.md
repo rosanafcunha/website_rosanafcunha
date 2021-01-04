@@ -8,7 +8,8 @@ title: Fellowship at the National Museum of Natural History
 ---
 
 ---
-Today I have presented my work, the results of 27 months of dedication and intense research! I have learned a lot during this time, and I am very pround of my Thesis! I am grateful to all the people who, directly or indirectly, have supported me during this journey at the Museum of Zoology of the University of São Paulo.
+It is with much joy in my heart that I let you all know that today I start my Fellowship at the NMNH – Smithsonian Institution! I have submitted a research porpose to the Research Support Foundation of the São Paulo State, and I have received a 3-month sponsorship to develop a part of my master's studies about the genus _Narcissia_ in their collection. I am so excited about this new adventure. It will be a honnor to work in one of the most important museum of natural history in the world! 
+
 
 ![picture 1 of my master](https://raw.githubusercontent.com/rosanafcunha/rosanafcunha/master/content/post/getting-started/msc2.png "Masters Degree")
 
