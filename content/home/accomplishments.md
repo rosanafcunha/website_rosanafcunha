@@ -1,7 +1,7 @@
 ---
 widget: accomplishments
 headless: true  # This file represents a page section.
-weight: 65
+weight: 80
 title: Talks and Conference Activity
 # ... Put Your Section Options Here (title etc.) ...
 
