@@ -2,9 +2,9 @@
 reading_time: false
 summary: October 2018
 profile: false
-date: 2018-08-28T00:00:00.000Z
+date: 2018-10-20
 comments: false
-title: "First time in Europe: visiting researcher at the Natural History Museum, Londres"
+title: Visiting researcher at the Natural History Museum, UK
 ---
 
 ---
