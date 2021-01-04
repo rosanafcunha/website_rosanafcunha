@@ -22,23 +22,22 @@ item:
     certificate_url: 'media/mzusp.jpg'
     date_start: '2019-03-01'
     date_end: ''
-    description: '3rd Graduate Meeting of the Museum of Zoology of the University of São Paulo, São Paulo, Brazil'
-  - organization: edX
-    organization_url: 'https://www.edx.org'
-    title: Blockchain Fundamentals
-    url: >-
-      https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    certificate_url: 'https://www.edx.org'
-    date_start: '2018-03-01'
-    date_end: ''
-    description: 'Formulated informed blockchain models, hypotheses, and use cases.'
-  - organization: DataCamp
-    organization_url: 'https://www.datacamp.com'
-    title: 'Object-Oriented Programming in R: S3 and R6 Course'
+    description: '3rd Graduate Meeting of the Museum of Zoology of the University of São Paulo, São Paulo, Brazil (Poster)'
+  - organization: University of São Paulo
+    organization_url: 'https://www5.usp.br/'
+    title: 'Morphology of _Narcissia trigonaria_ Sladen, 1889 (Asteroidea: Ophidiasteridae): a Taxonomic Problem?'
     url: ''
-    certificate_url: 'https://www.datacamp.com'
-    date_start: '2017-07-01'
-    date_end: '2017-12-21'
-    description: ''
+    certificate_url: 'media/cle.jpg'
+    date_start: '2013-10-01'
+    date_end: ''
+    description: '2nd Latin American Congress of Echinoderms, São Sebastião, Brazil (Poster)'
+  - organization: Brazilian Association of Marine Biology
+    organization_url: 'https://www.datacamp.com'
+    title: 'First Record of _Asterinides folium_ (Lütken, 1860) for Northeastern Brazil'
+    url: ''
+    certificate_url: 'media/Certificado CBBM Trab Echinod.jpg'
+    date_start: '2013-05-01'
+    date_end: ''
+    description: '4th Brazilian Congress of Marine Biology, Florianopólis, Brazil (Poster)'
     
 ---
