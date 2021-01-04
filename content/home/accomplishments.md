@@ -15,14 +15,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with `>-`.
 item:
-  - organization: Coursera
-    organization_url: 'https://www.coursera.org'
-    title: Neural Networks and Deep Learning
+  - organization: Museum of Zoology of the University of São Paulo
+    organization_url: 'https://www.mz.usp.br'
+    title: 'Revision of the Genus _Narcissia_ Gray, 1840 (Echinodermata, Asteroidea): from Morphology to Taxonomy'
     url: ''
-    certificate_url: 'https://www.coursera.org'
-    date_start: '2018-10-01'
+    certificate_url: 'media/mzusp.jpg'
+    date_start: '2019-03-01'
     date_end: ''
-    description: ''
+    description: '3rd Graduate Meeting of the Museum of Zoology of the University of São Paulo, São Paulo, Brazil'
   - organization: edX
     organization_url: 'https://www.edx.org'
     title: Blockchain Fundamentals
