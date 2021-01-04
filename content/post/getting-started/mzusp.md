@@ -4,7 +4,7 @@ summary: March 2019
 profile: false
 date: 2019-03-16
 comments: false
-title: Graduate Meeting of the Museum of Zoology of the University of São Paulo
+title: Graduate Meeting at the MZUSP
 ---
 
 ---
