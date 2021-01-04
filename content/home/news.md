@@ -1,5 +1,5 @@
 ---
-widget: Blank
+widget: pages
 widget_id: ab
 headless: true
 weight: 70
