@@ -14,7 +14,6 @@ content:
   offset: 0
   # Page order. Descending (desc) or ascending (asc) date.
   order: desc
-  # Optionally filter posts by a taxonomy term.
  filters:
     tag: ''
     category: ''
