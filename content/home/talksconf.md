@@ -46,8 +46,8 @@ item:
   - organization: Talk
     organization_url: ''
     title: 'Virtual Zoology Museum - UFBA: Popularization of Knowledge about the Phylum Echinodermata'
-    url: 'media/CBZ 1.jpg'
-    certificate_url: ''
+    url: ''
+    certificate_url: 'media/CBZ 1.jpg'
     date_start: '2012-03-01'
     date_end: ''
     description: '29th Brazilian Congress of Zoology, Salvador, Brazil'
