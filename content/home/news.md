@@ -9,7 +9,8 @@ headless: true
 weight: 70
 title: NEWS
 subtitle: ""
-
+---
+---
 content:
   # Page type to display. E.g. post, event, or publication.
   page_type: post
@@ -35,4 +36,4 @@ design:
   #   4 = Citation (publication only)  
   view: 2
   
-  ---
+---
