@@ -28,10 +28,7 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)  
 view: 2
-image:
-  filename: featured.jpg
-  focal_point: Smart
-  preview_only: false
+url: 'media/msc2.jpg'
 ---
 
 ---
