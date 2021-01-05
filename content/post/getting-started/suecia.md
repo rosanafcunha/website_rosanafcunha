@@ -8,7 +8,7 @@ title: Volunteer job at the Swedish Museum of Natural History
 ---
 
 ---
-Today I have presented my work, the results of 27 months of dedication and intense research! I have learned a lot during this time, and I am very pround of my Thesis! I am grateful to all the people who, directly or indirectly, have supported me during this journey at the Museum of Zoology of the University of São Paulo.
+During my time in Europe I have applied for a volunter job position as an Assistant Collection Manager at the Swedish Museum of Natural History. There I worked inside the marine invertebrates collections, helping them with identification of molluscs and sea star, and organization issues. It was a wonderful experience, and I have met many incredible people that make this museum one of the most important research institution in the world!  
 ---
 
 ---
