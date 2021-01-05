@@ -12,7 +12,7 @@ During my Fellowship at the NMNH I was approved as a Research Visitant at the Na
 
 P.S: I could not leave the NHM without a picture with the famous Darwin statue!
 
----
+
 
 ---
 ![picture 3 of my master](https://raw.githubusercontent.com/rosanafcunha/rosanafcunha/master/content/post/getting-started/nhm.jpg "NHM")
