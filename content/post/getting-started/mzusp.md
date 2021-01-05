@@ -6,10 +6,11 @@ date: 2019-03-16
 comments: false
 title: Graduate Meeting at the MZUSP
 ---
+---
+
+Every year, at the Museum of Zoology of the University of São Paulo, the graduate students are invited to present their research project for all the museum's community! It is a great opportunity to show your partial discoveries if you are still developing your study, or present your final results of your M.Sc. or PhD. My poster turn out so beautiful!
 
 ---
-It is with much happiness in my heart that I let you all know that today I start my Fellowship at the NMNH – Smithsonian Institution! I have submitted a research porpose to the Research Support Foundation of the São Paulo State, and they approved a 3-month sponsorship to develop part of my master's studies about the genus _Narcissia_ deposited at the NMNH's invertebrate collection. I am so excited about this new adventure. It will be a honnor to work in one of the most important museums of natural history in the world! 
-
 ![picture 4 of my master](https://raw.githubusercontent.com/rosanafcunha/rosanafcunha/master/content/post/getting-started/3.jpg "mzusp")
 
 ---
