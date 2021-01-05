@@ -53,9 +53,9 @@ item:
     description: '29th Brazilian Congress of Zoology, Salvador, Brazil (Talk)'
   - organization: Universidade Federal da Bahia
     organization_url: 'https://www.ufba.br/'
-    title: 'Identification of Juveniles and Adults of Asteroidea: a Taxonomic Problem'
+    title: 'Identification of Juveniles and Adults of Asteroidea: a Taxonomic Problem (Talk)'
     url: ''
-    certificate_url: ''
+    certificate_url: 'media/pibic2012.jpg'
     date_start: '2012-11-01'
     date_end: ''
     description: '31st Student Research Seminar and 13th Bahia Federal University Research and Graduate Seminar, Salvador, Brazil (Talk)'  
