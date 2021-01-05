@@ -3,7 +3,7 @@ reading_time: false
 summary: September 2019
 profile: false
 date: 2019-09-01
-comments: false
+comments: true
 title: Volunteer job at the Swedish Museum of Natural History
 ---
 
