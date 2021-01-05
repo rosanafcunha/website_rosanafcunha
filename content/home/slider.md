@@ -2,7 +2,7 @@
 widget: slider
 headless: true  # This file represents a page section.
 
-weight: 22
+weight: 25
 
 # ... Put Your Section Options Here (section position etc.) ...
 
@@ -12,7 +12,7 @@ interval: false
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-height: 480px
+height: 520px
 
 
 item:
