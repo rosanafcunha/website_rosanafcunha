@@ -48,7 +48,7 @@ item:
     title: 'Identification of Juveniles and Adults of Asteroidea: a Taxonomic Problem (Talk)'
     url: ''
     certificate_url: 'media/pibic2012.png'
-    date_start: '2012-11-01'
+    date_start: '2012-10-01'
     date_end: ''
     description: '31st Student Research Seminar and 13th Bahia Federal University Research and Graduate Seminar, Salvador, Brazil (Talk)'   
   - organization: Brazilian Society of Zoology
