@@ -2,7 +2,7 @@
 widget: slider
 headless: true  # This file represents a page section.
 
-weight: 45
+weight: 1
 
 # ... Put Your Section Options Here (section position etc.) ...
 
@@ -19,6 +19,7 @@ item:
   - overlay_color: '#666'  # An HTML color value.
     overlay_img: sampaio.jpg  # Image path relative to your `static/media/` folder
     overlay_filter: 0  # Darken the image. Value in range 0-1.
+    caption: "Photo credit: Cláudio Sampaio"
   - overlay_color: '#666'  # An HTML color value.
     overlay_img: Tomo_750x540.jpg  # Image path relative to your `static/media/` folder
     overlay_filter: 0  # Darken the image. Value in range 0-1.  
