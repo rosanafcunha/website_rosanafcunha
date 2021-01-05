@@ -43,6 +43,14 @@ item:
     date_start: '2013-05-01'
     date_end: ''
     description: '4th Brazilian Congress of Marine Biology, Florianopólis, Brazil (Poster)'
+  - organization: Universidade Federal da Bahia
+    organization_url: 'https://www.ufba.br/'
+    title: 'Identification of Juveniles and Adults of Asteroidea: a Taxonomic Problem (Talk)'
+    url: ''
+    certificate_url: 'media/pibic2012.png'
+    date_start: '2012-11-01'
+    date_end: ''
+    description: '31st Student Research Seminar and 13th Bahia Federal University Research and Graduate Seminar, Salvador, Brazil (Talk)'   
   - organization: Brazilian Society of Zoology
     organization_url: 'http://sbzoologia.org.br/'
     title: 'Virtual Zoology Museum - UFBA: Popularization of Knowledge about the Phylum Echinodermata'
@@ -50,14 +58,6 @@ item:
     certificate_url: 'media/CBZ 1.jpg'
     date_start: '2012-03-01'
     date_end: '' 
-    description: '29th Brazilian Congress of Zoology, Salvador, Brazil (Talk)'
-  - organization: Universidade Federal da Bahia
-    organization_url: 'https://www.ufba.br/'
-    title: 'Identification of Juveniles and Adults of Asteroidea: a Taxonomic Problem (Talk)'
-    url: ''
-    certificate_url: 'media/pibic2012.jpg'
-    date_start: '2012-11-01'
-    date_end: ''
-    description: '31st Student Research Seminar and 13th Bahia Federal University Research and Graduate Seminar, Salvador, Brazil (Talk)'  
+    description: '29th Brazilian Congress of Zoology, Salvador, Brazil (Talk)' 
     
 ---
