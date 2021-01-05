@@ -4,7 +4,7 @@ summary: March 2019
 profile: false
 date: 2019-03-16
 comments: false
-title: 3rd Graduate Meeting at the MZUSP
+title: Graduate Meeting at the MZUSP
 ---
 ---
 
