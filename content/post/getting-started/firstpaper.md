@@ -8,7 +8,7 @@ title: First paper out!
 ---
 ---
 
-It is with happiness that I share with you all the first paper of my career! In this research, we talk about the sea stars collected during the project ProTrindade in Trindade and Martin Vaz, Brazil. We reported five new records to the archipelago, with _Copidaster lymani_ A.H. Clark, 1948 also being the first record of the species in the southwestern Atlantic. Please, check the publication section out to know more about our results and to see the species' beautiful pictures (like these ones below)! 
+It is with happiness that I share with you all the first paper of my career! In this research, we talk about the sea stars collected during the project ([ProTrindade](https://www.marinha.mil.br/secirm/sites/www.marinha.mil.br.secirm/files/publicacoes/protrindade/protrindade-10anos.pdf)) in Trindade and Martin Vaz, Brazil. We reported five new records to the archipelago, with _Copidaster lymani_ A.H. Clark, 1948 also being the first record of the species in the southwestern Atlantic. Please, check the publication section out to know more about our results and to see the species' beautiful pictures (like these ones below)! 
 
 ---
 ![picture paper](https://raw.githubusercontent.com/rosanafcunha/rosanafcunha/master/static/media/trindade.png "Paper 2020")
