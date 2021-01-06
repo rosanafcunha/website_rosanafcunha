@@ -7,8 +7,9 @@ publication_types:
 authors:
   - Cunha 
   - R.; Tavares
-  - M. & Braga
-  - J.
+  - M. & 
+  - Braga
+  - J. 
 publication: _Zootaxa_
 draft: false
 featured: false
