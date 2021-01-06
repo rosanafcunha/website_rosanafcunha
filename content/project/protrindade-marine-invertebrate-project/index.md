@@ -17,7 +17,7 @@ image:
 ---
 Trindade and Martin Vaz (TMV) is a highly isolated, oceanic volcanic archipelago located approximately 1200 km off
 the Brazilian coast and about 4200 km away from the nearest African coast. It has been almost 70 years since the first sea
-star, “Astropecten sp.”, was recorded from Trindade in 1951. In the following years (1955–1971; 2006) six sea star species
+star, "_Astropecten_ sp.", was recorded from Trindade in 1951. In the following years (1955–1971; 2006) six sea star species
 were added to the archipelago’s fauna. After that period, however, research on shallow water echinoderms has not been
 conducted in TMV and no further sea star species have been recorded from there since. From 2012 to 2019, 263 day time
  SCUBA diving and intertidal samplings conducted at TMV yielded 91 lots of sea stars in 7 species: _Linckia guildingi_ 
