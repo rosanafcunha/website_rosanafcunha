@@ -69,7 +69,7 @@ item:
     description: '29th Brazilian Congress of Zoology, Salvador, Brazil (Poster)' 
   - organization: Universidade Federal da Bahia
     organization_url: 'https://www.ufba.br/'
-    title: 'Echinodermata Collection from the Museum of Zoology of the Bahia Federal University: Testimonies of Biodiversitya'
+    title: 'Echinodermata Collection from the Museum of Zoology of the Bahia Federal University: Testimonies of Biodiversity'
     url: ''
     certificate_url: 'media/Certificado Pibic 2010.png'
     date_start: '2010-11-01'
