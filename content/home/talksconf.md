@@ -45,7 +45,7 @@ item:
     description: '4th Brazilian Congress of Marine Biology, Florianopólis, Brazil (Poster)'
   - organization: Universidade Federal da Bahia
     organization_url: 'https://www.ufba.br/'
-    title: 'Identification of Juveniles and Adults of Asteroidea: a Taxonomic Problem (Talk)'
+    title: 'Identification of Juveniles and Adults of Asteroidea: a Taxonomic Problem'
     url: ''
     certificate_url: 'media/pibic2012.png'
     date_start: '2012-10-01'
