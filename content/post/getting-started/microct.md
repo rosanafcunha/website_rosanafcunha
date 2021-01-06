@@ -13,6 +13,6 @@ During my time in Europe I have applied for a volunter job position as an Assist
 
 
 ---
-![tomography](media/microct.mov "Microct")
+![tomography](https://github.com/rosanafcunha/rosanafcunha/blob/master/static/media/microct.mov "Microct")
 
 ---
