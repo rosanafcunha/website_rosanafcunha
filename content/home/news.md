@@ -2,7 +2,7 @@
 widget: pages
 widget_id: ab
 headless: true
-weight: 50
+weight: 70
 title: NEWS
 subtitle: ""
 ---
