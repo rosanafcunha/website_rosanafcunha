@@ -58,6 +58,22 @@ item:
     certificate_url: 'media/CBZ 1.jpg'
     date_start: '2012-03-01'
     date_end: '' 
-    description: '29th Brazilian Congress of Zoology, Salvador, Brazil (Talk)' 
+    description: '29th Brazilian Congress of Zoology, Salvador, Brazil (Talk)'
+  - organization: Brazilian Society of Zoology
+    organization_url: 'http://sbzoologia.org.br/'
+    title: 'List of Living and Fossil Asteroidea (Echinodermata) from Brazil: a Focus on the Fauna of Bahia'
+    url: ''
+    certificate_url: 'media/CBZ 2.jpg'
+    date_start: '2012-03-01'
+    date_end: '' 
+    description: '29th Brazilian Congress of Zoology, Salvador, Brazil (Poster)' 
+  - organization: Universidade Federal da Bahia
+    organization_url: 'https://www.ufba.br/'
+    title: 'Echinodermata Collection from the Museum of Zoology of the Bahia Federal University: Testimonies of Biodiversitya'
+    url: ''
+    certificate_url: 'media/Certificado Pibic 2010.png'
+    date_start: '2010-11-01'
+    date_end: '' 
+    description: '29th Student Research Seminar'
     
 ---
