@@ -74,6 +74,6 @@ item:
     certificate_url: 'media/Certificado Pibic 2010.png'
     date_start: '2010-11-01'
     date_end: '' 
-    description: '29th Student Research Seminar'
+    description: '29th Student Research Seminar (Talk)'
     
 ---
