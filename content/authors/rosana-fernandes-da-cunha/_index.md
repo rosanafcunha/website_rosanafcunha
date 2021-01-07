@@ -28,14 +28,14 @@ social:
     icon: orcid
   - display:
       header: false
-    link: "files/CV - Rosana Cunha.pdf"
-    icon_pack: ai
-    icon: cv
-  - display:
-      header: false
     link: http://lattes.cnpq.br/8513044229125958
     icon_pack: ai
     icon: lattes
+   - display:
+      header: false
+    link: "files/CV - Rosana Cunha.pdf"
+    icon_pack: ai
+    icon: cv
   - display:
       header: false
     link: https://www.linkedin.com/in/rosana-cunha-msc-5a028040/
