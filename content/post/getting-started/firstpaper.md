@@ -1,7 +1,7 @@
 --- 
 reading_time: false
 summary: February 2020
-profile: false
+profile: true
 date: 2020-02-01
 comments: false
 title: First paper out!
