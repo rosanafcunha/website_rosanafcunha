@@ -31,7 +31,7 @@ social:
     link: http://lattes.cnpq.br/8513044229125958
     icon_pack: ai
     icon: lattes
-   - display:
+  - display:
       header: false
     link: "files/CV - Rosana Cunha.pdf"
     icon_pack: ai
