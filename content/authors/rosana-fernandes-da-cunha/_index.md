@@ -18,6 +18,11 @@ social:
     icon: envelope
   - display:
       header: false
+    link: "files/CV - Rosana Cunha.pdf"
+    icon_pack: ai
+    icon: cv
+  - display:
+      header: false
     link: https://www.researchgate.net/profile/Rosana-Cunha
     icon_pack: ai
     icon: researchgate
