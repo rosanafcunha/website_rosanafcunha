@@ -18,11 +18,6 @@ social:
     icon: envelope
   - display:
       header: false
-    link: "files/CV - Rosana Cunha.pdf"
-    icon_pack: ai
-    icon: cv
-  - display:
-      header: false
     link: https://www.researchgate.net/profile/Rosana-Cunha
     icon_pack: ai
     icon: researchgate
@@ -31,6 +26,11 @@ social:
     link: https://orcid.org/0000-0002-0858-0041
     icon_pack: ai
     icon: orcid
+  - display:
+      header: false
+    link: "files/CV - Rosana Cunha.pdf"
+    icon_pack: ai
+    icon: cv
   - display:
       header: false
     link: http://lattes.cnpq.br/8513044229125958
