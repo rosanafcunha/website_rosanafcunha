@@ -5,7 +5,7 @@ profile: false
 date: 2020-02-01
 comments: false
 title: First paper out!
-[![trindade.png]((https://raw.githubusercontent.com/rosanafcunha/rosanafcunha/master/static/media/trindade.png)](https://rosanacunha.netlify.app/post/getting-started/firstpaper/)
+image: [![trindade.png]((https://raw.githubusercontent.com/rosanafcunha/rosanafcunha/master/static/media/trindade.png)](https://rosanacunha.netlify.app/post/getting-started/firstpaper/)
 ---
 ---
 
