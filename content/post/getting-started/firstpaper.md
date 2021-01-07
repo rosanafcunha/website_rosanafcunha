@@ -1,10 +1,10 @@
 --- 
-reading_time: false
-summary: February 2020
-profile: true
-date: 2020-02-01
-comments: false
-title: First paper out!
+# reading_time: false
+# summary: February 2020
+# profile: false
+# date: 2020-02-01
+# comments: false
+# title: First paper out!
 # imagem: <img src="/media/trindade.png" alt="Trindade" title="First paper" width="150" height="100" />
 ---
 
