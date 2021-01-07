@@ -5,7 +5,7 @@ profile: false
 date: 2020-02-01
 comments: false
 title: First paper out!
-imagem: <img src="/media/trindade.png" alt="Trindade" title="First paper" width="150" height="100" />
+# imagem: <img src="/media/trindade.png" alt="Trindade" title="First paper" width="150" height="100" />
 ---
 
 ---
