@@ -1,7 +1,4 @@
 --- 
-<p align "left">
-  <img src="https://raw.githubusercontent.com/rosanafcunha/rosanafcunha/master/static/media/trindade.png" >
- </p>
 reading_time: false
 summary: February 2020
 profile: false
