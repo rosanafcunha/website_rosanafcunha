@@ -1,7 +1,5 @@
 ---
-<p align"left">
   <img src= "https://raw.githubusercontent.com/rosanafcunha/rosanafcunha/master/static/media/trindade.png" alt="paper" title="Sea_star" width="96" height="65" /> 
- </p>
  ## First paper out!
 ---
 
