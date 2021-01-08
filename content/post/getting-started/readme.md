@@ -2,8 +2,7 @@
 <p align"left">
   <img src="https://raw.githubusercontent.com/rosanafcunha/rosanafcunha/master/static/media/trindade.png"/>
  </p>
- 
-## First paper out!
+ ## First paper out!
 ---
 
 ---
