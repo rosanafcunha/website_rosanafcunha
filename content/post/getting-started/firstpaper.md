@@ -5,7 +5,9 @@ profile: false
 date: 2020-02-01
 comments: false
 title: First paper out!
-related_image: media/trindade.png
+<p align "left">
+<img src="https://raw.githubusercontent.com/rosanafcunha/rosanafcunha/master/static/media/trindade.png" >
+</p>
 ---
 
 ---
