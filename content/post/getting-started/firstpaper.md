@@ -1,13 +1,13 @@
 --- 
+<p align "left">
+  <img src="https://raw.githubusercontent.com/rosanafcunha/rosanafcunha/master/static/media/trindade.png" >
+ </p>
 reading_time: false
 summary: February 2020
 profile: false
 date: 2020-02-01
 comments: false
 title: First paper out!
-image: <p align "left">
-<img src="https://raw.githubusercontent.com/rosanafcunha/rosanafcunha/master/static/media/trindade.png" >
-</p>
 ---
 
 ---
