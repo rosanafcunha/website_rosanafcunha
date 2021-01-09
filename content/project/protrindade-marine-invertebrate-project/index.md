@@ -27,6 +27,8 @@ Clark, 1948; _Luidia alternata alternata_ (Say, 1825); _Mithrodia clavigera_ (La
 record of the species in the southwestern Atlantic. Five shallow-water species previously known from TMV have not been
 observed in the present survey: _Asterinides folium_ (Lütken, 1860), _Astropecten brasiliensis_ Müller & Troschel, 1842,
  _Astropecten cingulatus_ Sladen, 1883, _Linckia nodosa_ Perrier, 1875, and _Ophidiaster alexandri_ Verrill, 1915. Twelve sea
-star species are currently known from shallow waters of TMV. This is contribution number 7 of the ProTrindade Marine Invertebrate Project ([ProTrindade](https://www.marinha.mil.br/secirm/sites/www.marinha.mil.br.secirm/files/publicacoes/protrindade/protrindade-10anos.pdf)) 
+star species are currently known from shallow waters of TMV. 
+
+This is contribution number 7 of the ProTrindade Marine Invertebrate Project ([ProTrindade](https://www.marinha.mil.br/secirm/sites/www.marinha.mil.br.secirm/files/publicacoes/protrindade/protrindade-10anos.pdf)). 
 
 ---
