@@ -1,19 +1,18 @@
 ---
 reading_time: false
-summary: February 2020
+summary: New record of sea stars in Trindade Island, Brazil and the first record
+  of the species in the southwestern Atlantic.
+authors:
+  - Rosana Cunha
 profile: false
-date: 2020-02-01
+date: 2020-02-20T16:23:14.303Z
 comments: false
 title: First paper out!
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: ''
+  caption: ""
   focal_point: ""
   placement: 2
   preview_only: true
-  
 ---
 
 ---
