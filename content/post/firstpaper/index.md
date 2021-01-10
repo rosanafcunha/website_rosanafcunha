@@ -1,7 +1,7 @@
 ---
 reading_time: false
-summary: New record of sea stars in Trindade Island, Brazil and the first record
-  of the species in the southwestern Atlantic.
+summary: New records of sea stars from Trindade Island, Brazil and the first
+  record of _Copidaster lymani_ A.H. Clark, 1948 in the southwestern Atlantic.
 authors:
   - Rosana Cunha
 profile: false
