@@ -7,7 +7,7 @@ comments: false
 title: First paper out!
 image:
   filename: featured.jpg
-  preview_only: true
+#  preview_only: true
 ---
 
 ---
