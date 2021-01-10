@@ -1,13 +1,14 @@
 ---
 reading_time: false
+title: First paper out!
+date: 2020-02-01T16:23:14.303Z
 summary: New records of sea stars from Trindade Island, Brazil and the first
   record of _Copidaster lymani_ A.H. Clark, 1948 in the southwestern Atlantic.
 authors:
   - Rosana Cunha
 profile: false
-date: 2020-02-20
+featured: false
 comments: false
-title: First paper out!
 image:
   caption: ""
   focal_point: ""
