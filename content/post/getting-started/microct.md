@@ -1,8 +1,10 @@
---- 
+---
 reading_time: false
-summary: November 2017
+summary: "Started to use the micro-computed tomography to obsereve how the
+  plates that form the sea stars body are connect to each other and affect their
+  phenotype "
 profile: false
-date: 2017-11-01
+date: 2017-11-01T03:00:00.000Z
 comments: false
 title: First time using micro-computed tomography (μCT)
 ---
