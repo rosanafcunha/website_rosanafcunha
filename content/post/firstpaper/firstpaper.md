@@ -6,7 +6,8 @@ date: 2020-02-01
 comments: false
 title: First paper out!
 image:
-  filename: featured.jpg
+  caption: ""
+  focal_point: ""
 #  preview_only: true
 ---
 
