@@ -1,4 +1,5 @@
 --- 
+reading_time: false
 summary: Using the micro-computed tomography to observe how the plates that form the sea star body wall connect to each other and 
 affect their phenotype.
 authors:
