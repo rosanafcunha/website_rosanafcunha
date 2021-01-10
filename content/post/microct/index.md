@@ -4,7 +4,7 @@ summary: Using the micro-computed tomography to observe how the plates that form
 affect their phenotype.
 authors:
   - Rosana Cunha
-# date: 2017-11-01T03:00:00.000Z
+date: 2017-11-01T03:00:00.000Z
 profile: false
 comments: false
 title: First time using micro-computed tomography (μCT)
