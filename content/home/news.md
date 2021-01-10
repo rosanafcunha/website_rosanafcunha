@@ -15,7 +15,7 @@ content:
   # Page order. Descending (desc) or ascending (asc) date.
   order: desc
   filters:
-    author: ""
+    author: "Rosana Cunha"
     category: ""
     tag: ""
     exclude_featured: false
