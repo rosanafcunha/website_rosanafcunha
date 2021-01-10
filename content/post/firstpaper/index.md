@@ -5,7 +5,6 @@ profile: false
 date: 2020-02-01
 comments: false
 title: First paper out!
-subtitle: New records of sea stars in Trindade Island Brazil, and a new record for the southwestern Atlantic.
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
