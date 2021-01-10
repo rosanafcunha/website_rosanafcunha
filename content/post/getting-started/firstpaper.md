@@ -6,7 +6,7 @@ date: 2020-02-01
 comments: false
 title: First paper out!
 image:
-  filename: featured.png
+  filename: featured.jpg
 ---
 
 ---
