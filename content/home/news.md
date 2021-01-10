@@ -3,8 +3,8 @@ widget: pages
 #widget_id: ab
 headless: true
 weight: 70
-title: NEWS
-#subtitle: ""
+title: News
+subtitle: 
 content:
   # Page type to display. E.g. post, event, or publication.
   page_type: post
