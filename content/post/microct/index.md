@@ -1,17 +1,17 @@
 ---
-reading_time: false
-summary: Using the micro-computed tomography to observe how the plates that form the sea star body wall connect to each other and affect their phenotype.
+title: First time using micro-computed tomography (μCT)
+date: 2017-11-01T03:00:00.000Z
+summary: >-
+  Using the micro-computed tomography to observe how the plates that form the 
+  sea star body wall connect to each other and affect their phenotype.
+draft: false  
+featured: false
 authors:
   - Rosana Cunha
-date: 2017-11-01T03:00:00.000Z
-profile: false
-comments: false
-title: First time using micro-computed tomography (μCT)
 image:
-  caption: ""
-  focal_point: ""
-  placement: 2
-  preview_only: true
+  filename: featured.jpg
+  focal_point: Smart
+  preview_only: false
 ---
 
 ---
