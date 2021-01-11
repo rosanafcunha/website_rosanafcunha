@@ -6,7 +6,7 @@ summary: New records of sea stars from Trindade Island, Brazil and the first
 authors:
   - Rosana Cunha
 date: 2020-02-01T03:00:00.000Z
-lastMod: "2020-12-13T00:00:00Z"
+lastmod: "2020-12-13T00:00:00Z"
 profile: false
 comments: false
 draft: false
