@@ -3,7 +3,7 @@ reading_time: false
 summary: A new student in the Systematics, Animal Taxonomy and Biodiversity graduate program 
 authors:
   - Rosana Cunha
-date: 2017-01-01
+date: 2017-01-23
 profile: false
 comments: false
 title: The beginning of a new journey
