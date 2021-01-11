@@ -3,10 +3,8 @@ reading_time: false
 summary: Sometimes your dreams come true!
 authors:
   - Rosana Cunha
-date: 
-  - October 2018
-profile: false
 date: 2018-10-20
+profile: false
 comments: false
 title: Visiting researcher at the Natural History Museum, UK
 image:
