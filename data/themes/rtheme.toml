@@ -5,7 +5,7 @@ name = "rtheme"
 light = true
 
 # Primary
-primary = "#1565c0"
+primary = "#2962FF"
 
 # Menu
 menu_primary = "#000000"
