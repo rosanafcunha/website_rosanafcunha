@@ -1,18 +1,14 @@
 ---
 widget: pages
-#widget_id: ab
+widget_id: ab
 headless: true
 weight: 70
 title: NEWS
-subtitle: 
+subtitle: "Click for more info "
 content:
-  # Page type to display. E.g. post, event, or publication.
   page_type: post
-  # Choose how much pages you would like to display (0 = all pages)
   count: 3
-  # Choose how many pages you would like to offset by
   offset: 0
-  # Page order. Descending (desc) or ascending (asc) date.
   order: desc
   filters:
     author: ""
@@ -23,10 +19,5 @@ content:
     exclude_past: false
     publication_type: ""
 design:
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
   view: 2
 ---
