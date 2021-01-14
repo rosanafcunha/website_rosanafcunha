@@ -36,7 +36,5 @@ design:
   #   4 = Citation (publication only)
   view: 4
   
-  #{{% staticref "files/Cunha%20et%20al%202020.pdf" "newtab" %}}(PDF){{% /staticref %}}
-  
 ---
 
