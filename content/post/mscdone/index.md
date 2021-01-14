@@ -1,12 +1,12 @@
 --- 
 reading_time: false
-summary: Now, I am MSc Rosana Cunha
+summary: Now, I am MSc Rosana Cunha!
 authors:
   - Rosana Cunha
 date: 2019-05-02
 profile: false
 comments: false
-title: Master’s Degree done!
+title: Master’s Degree done
 image:
   caption: ""
   focal_point: ""
