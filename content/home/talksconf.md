@@ -21,7 +21,7 @@ date_format: Jan 2006
 item:
   - organization: Museum of Zoology of the University of São Paulo
     organization_url: 'https://www.mz.usp.br'
-    title: 'Revision of the Genus _Narcissia_ Gray, 1840 (Echinodermata, Asteroidea): from Morphology to Taxonomy'
+    title: 'Review of the Genus _Narcissia_ Gray, 1840 (Echinodermata, Asteroidea): from Morphology to Taxonomy'
     url: ''
     certificate_url: 'media/mzusp.jpg'
     date_start: '2019-03-01'
