@@ -2,7 +2,7 @@
 title: Rosana Cunha
 role: Master in Systematics, Animal Taxonomy, and Biodiversity Museum of
   Zoology, University of São Paulo (MZUSP)
-avatar_filename: avatar.png
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Marine Invertebrates (Asteroidea)
@@ -33,7 +33,7 @@ social:
     icon: lattes
   - display:
       header: false
-    link: "files/CV - Rosana Cunha.pdf"
+    link: files/CV - Rosana Cunha.pdf
     icon_pack: ai
     icon: cv
   - display:
