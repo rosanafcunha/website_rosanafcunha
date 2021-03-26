@@ -14,6 +14,10 @@ title: Experience
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
+content:
+  count: 8
+  offset: 0
+  order: desc
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
