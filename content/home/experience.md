@@ -22,12 +22,21 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: 'Peer-review'
+    company: 'Check List'
+    company_url: 'https://checklist.pensoft.net/'
+    location: 'Sofia, Bulgaria'
+    date_start: '2021-03-01'
+    date_end: ''
+    description: 'Reviewing scientific papers'
+    
+  - title: 'Peer-review'
     company: 'Marine Biology Research Journal'
     company_url: 'https://www.tandfonline.com/toc/smar20/current'
     location: 'London, UK'
     date_start: '2021-02-01'
     date_end: ''
     description: 'Reviewing scientific papers'
+    
   - title: 'Peer-review'
     company: 'Revista de Biología Tropical, University of Costa Rica'
     company_url: 'https://revistas.ucr.ac.cr/'
