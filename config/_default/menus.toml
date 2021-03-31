@@ -27,12 +27,12 @@
 [[main]]
   name = "NEWS"
   url = "#news"
-  weight = 50
+  weight = 60
   
 [[main]]
   name = "Talks and Conference Activity"
   url = "#talksconf"
-  weight = 60
+  weight = 50
 
 [[main]]
   name = "Contact"
