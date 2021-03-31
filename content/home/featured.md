@@ -1,5 +1,7 @@
-widget: featured
+widget: 27
+title: Featured
 headless: true  # This file represents a page section.
+summary: Invited talk in the Echinoderms Functional Biology and Systematics course at the Universidade Estadual de Feira de Santana (UEFS) 
 
 # ... Put Your Section Options Here (title etc.) ...
 
