@@ -3,7 +3,7 @@
 widget: accomplishments
 headless: true  # This file represents a page section.
 
-weight: 60
+weight: 70
 
 title: Talks and Conference Activity
 
