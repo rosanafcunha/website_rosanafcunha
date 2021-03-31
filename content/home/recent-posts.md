@@ -3,9 +3,7 @@ widget: Featured
 headless: true
 weight: 27
 title: "Invited talk in the Echinoderms Functional Biology and Systematics
-  course at the Universidade Estadual de Feira de Santana (UEFS) "
-subtitle: "Click to see my talk at the Population Genetics and Phylogeography Population connectivity of an endangered gastropod across the
-  Mediterranean"
+  course at the Universidade Estadual de Feira de Santana (UEFS)"
 content:
   # Page type to display. E.g. post, event, or publication.
   page_type: publication
