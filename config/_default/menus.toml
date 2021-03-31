@@ -25,13 +25,13 @@
   weight = 40
 
 [[main]]
-  name = "Talks and Conference Activity"
-  url = "#talksconf"
+  name = "NEWS"
+  url = "#news"
   weight = 50
   
 [[main]]
-  name = "NEWS"
-  url = "#news"
+  name = "Talks and Conference Activity"
+  url = "#talksconf"
   weight = 60
 
 [[main]]
