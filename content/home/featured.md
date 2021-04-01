@@ -1,6 +1,7 @@
 ---
 widget: featured
 headless: true  # This file represents a page section.
+weight: 27
 title: Featured
 # ... Put Your Section Options Here (title etc.) ...
 
