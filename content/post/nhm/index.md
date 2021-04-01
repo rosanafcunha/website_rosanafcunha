@@ -2,7 +2,6 @@
 reading_time: false
 summary: Sometimes your dreams come true!
 authors:
-  - Rosana Cunha
 date: 2018-10-20
 profile: false
 comments: false
