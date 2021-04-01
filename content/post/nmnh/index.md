@@ -2,7 +2,6 @@
 reading_time: false
 summary: I was awarded a 3-month scholarship to carry out studies on the genus _Narcissia_ at the NMNH
 authors:
-  - Rosana Cunha
 date: 2018-08-01T00:00:00.000Z
 profile: false
 comments: false
