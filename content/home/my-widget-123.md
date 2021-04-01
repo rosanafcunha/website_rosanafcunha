@@ -1,6 +1,6 @@
 ---
 widget: Featured
-widget_id: my-widget-123
+widget_id: Featured
 headless: true
 weight: 27
 title: Featured
