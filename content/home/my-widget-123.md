@@ -1,6 +1,6 @@
 ---
 widget: Featured
-widget_id: Featured
+widget_id: RECENT-POSTS
 headless: true
 weight: 27
 title: Featured
