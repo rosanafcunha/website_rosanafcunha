@@ -14,7 +14,7 @@ content:
   order: desc
   # Optionally filter posts by a taxonomy term.
   filters:
-    tag: 'Invited talk in the Echinoderms Functional Biology and Systematics course at the Universidade Estadual de Feira de Santana (UEFS)'
+    tag: ''
     category: ''
     publication_type: ''
 design:
@@ -25,4 +25,4 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
-![featured](https://user-images.githubusercontent.com/76624467/113244820-20e6b780-928c-11eb-9496-057d6c253c22.jpg)
+
