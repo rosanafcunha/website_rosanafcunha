@@ -1,5 +1,6 @@
 --- 
 reading_time: false
+page_type: featured
 summary: Talk about the Asteroidea Class to the undergraduate students at the Universidade Estadual de Feira de Santana (UEFS)
 authors:
   - Rosana Cunha
