@@ -2,7 +2,6 @@
 reading_time: false
 summary: During my trip to Europe I had the opportunity to work inside the marine invertebrate collections of this incredible museum
 authors:
-  - Rosana Cunha
 date: 2019-09-01
 profile: false
 comments: false
