@@ -1,10 +1,16 @@
 ---
+
 widget: featured
 headless: true  # This file represents a page section.
 weight: 27
 title: Featured
 
-# ... Put Your Section Options Here (title etc.) ...
+  # ... Put Your Section Options Here (title etc.) ...
+title: "My post title"
+date: 2020-06-01
+author: Rosana Cunha
+draft: false
+featured: true 
 
 content:
   # Page type to display. E.g. post, event, or publication.
@@ -25,4 +31,5 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 3
+  
   ---
