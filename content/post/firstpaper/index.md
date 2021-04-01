@@ -1,7 +1,7 @@
 ---
 title: First paper out!
 reading_time: false
-summary: 
+summary: First record of the _Copidaster lymani_ A.H. Clark, 1948 in the southwestern Atlantic.
 authors:
   - Rosana Cunha
 date: "2020-02-19"
