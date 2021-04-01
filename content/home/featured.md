@@ -1,15 +1,27 @@
 ---
 widget: featured
-widget_id: featured
-headless: true
-weight: 27
+headless: true  # This file represents a page section.
 title: Featured
+# ... Put Your Section Options Here (title etc.) ...
+
 content:
+  # Page type to display. E.g. post, event, or publication.
   page_type: featured
+  # Choose how much pages you would like to display (0 = all pages)
+  count: 0
+  # Page order. Descending (desc) or ascending (asc) date.
+  order: desc
+  # Optionally filter posts by a taxonomy term.
+  filters:
+    tag: 'Invited talk in the Echinoderms Functional Biology and Systematics course at the Universidade Estadual de Feira de Santana (UEFS)'
+    category: ''
+    publication_type: ''
 design:
-  columns: "2"
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
   view: 3
-  flip_alt_rows: false
-  background:
-    image: /static/media/featured.jpg
 ---
+![featured](https://user-images.githubusercontent.com/76624467/113244820-20e6b780-928c-11eb-9496-057d6c253c22.jpg)
