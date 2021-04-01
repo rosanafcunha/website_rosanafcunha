@@ -3,27 +3,26 @@
 widget: featured
 headless: true  # This file represents a page section.
 weight: 27
-title: Featured
-
-  # ... Put Your Section Options Here (title etc.) ...
-title: "My post title"
+title: "Featured"
 date: 2020-06-01
 author: Rosana Cunha
 draft: false
 featured: true 
 
+# ... Put Your Section Options Here (title etc.) ...
+
 content:
-  # Page type to display. E.g. post, event, or publication.
-  page_type: publication
-  # Choose how much pages you would like to display (0 = all pages)
-  count: 0
-  # Page order. Descending (desc) or ascending (asc) date.
-  order: desc
-  # Optionally filter posts by a taxonomy term.
-  filters:
-    tag: ''
-    category: ''
-    publication_type: ''
+# Page type to display. E.g. post, event, or publication.
+page_type: publication
+# Choose how much pages you would like to display (0 = all pages)
+count: 0
+# Page order. Descending (desc) or ascending (asc) date.
+order: desc
+# Optionally filter posts by a taxonomy term.
+filters:
+  tag: ''
+  category: ''
+  publication_type: ''
 design:
   # Toggle between the various page layout types.
   #   1 = List
