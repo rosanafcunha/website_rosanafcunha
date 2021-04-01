@@ -10,11 +10,9 @@ content:
   count: 0
   order: desc
   filters:
-    tag: ""
-    category: ""
+    tag: "Invited talk in the Echinoderms Functional Biology and Systematics course at the Universidade Estadual de Feira de Santana (UEFS)"
+    category: "2021-04-14"
     publication_type: ""
 design:
   view: 3
-  background:
-    image: /static/media/talk-1.png
 ---
