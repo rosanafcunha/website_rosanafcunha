@@ -5,12 +5,9 @@ headless: true
 weight: 27
 title: Featured
 subtitle: ""
+summary: Invited talk in the Echinoderms Functional Biology and Systematics course at the Universidade Estadual de Feira de Santana (UEFS)
 
 reading_time: false
-summary: bla bla bla
-authors:
-  - Rosana Cunha
-date: 2021-04-01T03:00:00.000Z
 profile: false
 comments: false
 title: Invited talk in the Echinoderms Functional Biology and Systematics course at the Universidade Estadual de Feira de Santana (UEFS) 
