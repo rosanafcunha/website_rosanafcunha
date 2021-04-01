@@ -16,7 +16,8 @@ image:
 
 ---
 
-I was invited by Professor Dr. Wagner Magalhães to give a lecture to undergraduate students at the Universidade Estadual de Feira de Santana ([UEFS](http://www.uefs.br/)), Bahia, Brazil. I will talk a little about the Asteroid Class and the research I have developed during my master's degree at ([MZUSP](http://mz.usp.br/pt/pagina-inicial/)).  
+I was invited by Professor Dr. Wagner Magalhães to give a lecture to undergraduate students at the Universidade Estadual de Feira de Santana ([UEFS](http://www.uefs.br/)), Bahia, Brazil. I will talk a little about the Asteroid Class and the research I have developed during my master's degree at the Museum of Zoology 
+of the University of São Paulo ([MZUSP](http://mz.usp.br/pt/pagina-inicial/)).  
 
 ---
 ![talk 1](https://raw.githubusercontent.com/rosanafcunha/rosanafcunha/master/static/media/talk-1.png "talk 1")
