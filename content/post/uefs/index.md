@@ -3,7 +3,7 @@ reading_time: false
 summary: Talk about the Asteroidea Class to the undergraduate students
 authors:
   - Rosana Cunha
-date: 2021-04-14
+date: 2021-04-01
 profile: false
 comments: false
 title: Invited talk in the Echinoderms Functional Biology and Systematics course at the Universidade Estadual de Feira de Santana (UEFS)
