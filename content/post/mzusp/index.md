@@ -2,7 +2,6 @@
 reading_time: false
 summary: Excellent opportunity for graduate students to present their research projects
 authors:
-  - Rosana Cunha
 date: 2019-03-16
 profile: false
 comments: false
