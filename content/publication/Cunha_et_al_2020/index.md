@@ -7,7 +7,7 @@ publication_types:
 authors:
   - Cunha
   - R.; Tavares
-  - M. & Braga 
+  - M.; Braga
   - J.
 doi: https://doi.org/10.11646/zootaxa.4742.1.2
 publication: _Zootaxa_
@@ -21,5 +21,4 @@ date: 2020-02-01T03:54:00.000Z
 links:
   - name: Project
     url: https://www.rosanacunha.com/project/protrindade-marine-invertebrate-project/
-
 ---
