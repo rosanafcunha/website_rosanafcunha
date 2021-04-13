@@ -11,7 +11,7 @@ authors:
   - C. & Souto
   - C.
 doi: https://doi.org/10.11646/zootaxa.4955.1.1
-publication: Zootaxa
+publication: _Zootaxa_
 draft: false
 featured: false
 projects:
