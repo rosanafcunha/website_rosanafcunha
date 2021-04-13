@@ -6,8 +6,8 @@ summary: Expansion of the number of research projects under development in the
 draft: false
 featured: false
 links:
-  - name: Journal Page
-    url: https://www.biotaxa.org/Zootaxa/article/view/zootaxa.4742.1.2
+  - name: DOI
+    url: https://doi.org/10.11646/zootaxa.4955.1.1
 image:
   filename: featured.jpg
   focal_point: Smart
