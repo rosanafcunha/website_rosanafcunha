@@ -3,12 +3,13 @@ title: Shallow-water Asteroidea (Echinodermata) of the remote oceanic
   archipelago Trindade and Martin Vaz, southeastern Atlantic, with taxonomic and
   zoogeographical notes
 publication_types:
-  - "2"  
+  - "2"
 authors:
-  - Cunha 
+  - Cunha
   - R.; Tavares
   - M. & Braga
-  - J. 
+  - J.
+doi: https://doi.org/10.11646/zootaxa.4742.1.2
 publication: _Zootaxa_
 draft: false
 featured: false
