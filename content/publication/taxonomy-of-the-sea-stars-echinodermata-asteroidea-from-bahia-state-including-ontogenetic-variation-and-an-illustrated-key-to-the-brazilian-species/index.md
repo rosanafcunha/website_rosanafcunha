@@ -9,7 +9,7 @@ authors:
   - R.; Martins
   - L.; Menegola
   - C. & Souto
-  - C.
+  - C. 
 doi: https://doi.org/10.11646/zootaxa.4955.1.1
 publication: _Zootaxa_
 draft: false
@@ -22,4 +22,7 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2021-04-13T03:25:21.979Z
+links:
+  - name: Journal Page
+    url: https://www.biotaxa.org/Zootaxa/article/view/zootaxa.4955.1.1
 ---
