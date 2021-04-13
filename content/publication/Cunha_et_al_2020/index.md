@@ -7,8 +7,7 @@ publication_types:
 authors:
   - Cunha
   - R.; Tavares
-  - M.; Braga
-  - J.
+  - M.; Braga J.
 doi: https://doi.org/10.11646/zootaxa.4742.1.2
 publication: _Zootaxa_
 draft: false
