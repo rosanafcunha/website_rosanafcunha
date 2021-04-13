@@ -22,7 +22,5 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2021-04-13T03:25:21.979Z
-links:
-  - name: Journal Page
-    url: https://www.biotaxa.org/Zootaxa/article/view/zootaxa.4955.1.1
+
 ---
