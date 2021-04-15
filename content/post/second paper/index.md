@@ -22,6 +22,6 @@ and biological data from local academic research that have never been published 
 it is the final result of my undergraduate research, the first research of my life! Please, check our publication out on the Zootaxa website ([Zootaxa]
 (https://www.biotaxa.org/Zootaxa/article/view/zootaxa.4955.1.1)).
 
-![second paper](https://raw.githubusercontent.com/rosanafcunha/rosanafcunha/blob/master/static/media/secondpaper.jpg "second paper")
+![secondpaper](https://user-images.githubusercontent.com/76624467/114944937-dda94e80-9e1e-11eb-82f6-3e52c0229853.jpg "second paper")
 
 ---
