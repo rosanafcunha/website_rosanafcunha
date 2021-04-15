@@ -1,7 +1,7 @@
 ---
-featured: false
+featured: true
 reading_time: false
-summary: Talk about the Asteroidea Class to the undergraduate students at the Universidade Estadual de Feira de Santana (UEFS)
+summary: Taxonomy of the sea stars (#Echinodermata: Asteroidea) from Bahia State, including ontogenetic variation and an illustrated key to the Brazilian species 
 authors:
 date: 2021-04-15
 profile: false
@@ -22,6 +22,6 @@ and biological data from local academic research that have never been published 
 it is the final result of my undergraduate research, the first research of my life! Please, check our publication out on the Zootaxa website ([Zootaxa]
 (https://www.biotaxa.org/Zootaxa/article/view/zootaxa.4955.1.1)).
 
-![talk 1](https://raw.githubusercontent.com/rosanafcunha/rosanafcunha/master/static/media/talk-1.png "talk 1")
+![second paper](https://raw.githubusercontent.com/rosanafcunha/rosanafcunha/blob/master/static/media/secondpaper.jpg "second paper")
 
 ---
