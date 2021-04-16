@@ -23,6 +23,6 @@ it is the final result of my undergraduate research, the first research of my li
 
 ---
 
-![secondpaper](https://user-images.githubusercontent.com/76624467/114944937-dda94e80-9e1e-11eb-82f6-3e52c0229853.jpg "second paper")
+![secondpaper](https://user-images.githubusercontent.com/76624467/115090731-08150d80-9eec-11eb-9bbb-f11f6bfd547e.jpg "second paper")
 
 ---
