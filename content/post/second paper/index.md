@@ -1,5 +1,4 @@
 ---
-featured: true
 reading_time: false
 summary: "Taxonomy of the sea stars (Echinodermata: Asteroidea) from Bahia State, including ontogenetic variation and an illustrated key to the Brazilian species" 
 authors:
