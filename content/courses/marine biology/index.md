@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position in the list.
-title: Marine Biology
+linktitle: Marine Biology
 summary: Museum of Zoology of the University of São Paulo, 2020
 weight: 1
 
 # Page metadata.
-title: Overview
+title: Marine Biology
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
