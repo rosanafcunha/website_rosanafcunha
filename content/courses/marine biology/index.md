@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position in the list.
-linktitle: Marine Biology
+title: Marine Biology
 summary: Museum of Zoology of the University of São Paulo, 2020
 weight: 1
 
