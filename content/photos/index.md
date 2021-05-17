@@ -11,6 +11,13 @@ weight: 66
 
 title: Photos
 subtitle: Click to see images in larger size
+
+# front matter ...
+
+gallery_item:
+- album: gallery
+  caption: A caption
+  image: boards.jpg
 ---
 
 {{< gallery >}}
