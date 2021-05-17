@@ -20,4 +20,4 @@ content:
 
 ---
 
-{{< gallery dir="content/gallery/photos/" />}}
+{{< gallery dir="content/gallery/photos/" >}}
