@@ -10,7 +10,6 @@ draft: false
 Fall 2020
 
 [WEBSITE](https://www.mz.usp.br)
-
 ---
 
 _Chantalia conandae_ Martins & Souto, 2020 (New genus and new species)
@@ -34,4 +33,3 @@ _Kassandrina_ Souto & Martins, 2018 (New species)
 _Cucumaria solangeae_ Martins & Souto, 2015 (New species)
 _Coronatum baiensis_ Martins & Souto, 2012 (New genus and new species)
 
----
