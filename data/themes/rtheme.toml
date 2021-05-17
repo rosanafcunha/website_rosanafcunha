@@ -11,7 +11,7 @@ primary = "#A93226"
 menu_primary = "#000000"
 menu_text = "#CDCCCC"
 menu_text_active = "#A93226"
-menu_title = "#FFFFFF"
+menu_title = ""
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
