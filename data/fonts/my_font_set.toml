@@ -1,11 +1,11 @@
 # Font style metadata
-name = "Classic"
+name = "Minimal"
 
 # Optional Google font URL
-google_fonts = ""
+google_fonts = "family=Bitter:wght@500"
 
 # Font families
-heading_font = "Classic"
-body_font = "Classic"
-nav_font = "Classic"
-mono_font = "Classic"
+heading_font = "Bitter"
+body_font = "Bitter"
+nav_font = "Bitter"
+mono_font = "Bitter"
