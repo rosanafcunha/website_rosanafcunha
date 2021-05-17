@@ -44,6 +44,11 @@
   url = "gallery/"
   weight = 80
   
+[[main]]
+  name = "Course"
+  url = "course/"
+  weight = 90
+  
  
 
 # Link to a PDF of your resume/CV from the menu.
