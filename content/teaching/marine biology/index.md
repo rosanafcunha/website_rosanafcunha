@@ -1,18 +1,8 @@
 ---
-title: Marine Biology
-reading_time: false
-summary: Museum of Zoology of the University of São Paulo, 2020
-authors:
-date: ""
-profile: false
-comments: false
+title: "Marine Biology"
+subtitle: Museum of Zoology of the University of São Paulo, 2020
+date: 2020-08-10T20:39:13+02:00
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  placement: 2
-  preview_only: true
 ---
 
 **Instructor of Record**
