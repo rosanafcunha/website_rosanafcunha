@@ -11,10 +11,13 @@ Fall 2020
 
 [WEBSITE](https://www.mz.usp.br)
 ---
-
+---
 _Chantalia conandae_ Martins & Souto, 2020 (New genus and new species)
+---
 _Yemoja_ Martins & Souto, 2020 (New genus)
+---
 _Psolidium nanoplax_ Martins & Tavares, 2020 (New species)
+---
 _Psolidium lonchostinum_ Martins & Tavares, 2020 (New species)
 _Eurhodiidae_ Souto et al., 2019 (New family)
 _Havelockia smirnovi_ Martins, 2019 (New species)
