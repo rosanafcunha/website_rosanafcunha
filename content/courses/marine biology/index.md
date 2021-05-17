@@ -1,17 +1,11 @@
 ---
 title: Marine Biology
-reading_time: false
-summary: Museum of Zoology of the University of São Paulo, 2020
+subtitle: summary: Museum of Zoology of the University of São Paulo, 2020
 
----
-**Instructor of Record**
+layout: docs  # Do not modify.
 
-Fall 2020
-
-[WEBSITE](https://www.mz.usp.br)
-
----
-
-Descrever a disciplina aqui
-
+# Optional header image (relative to `assets/media/` folder).
+header:
+  caption: ""
+  image: ""
 ---
