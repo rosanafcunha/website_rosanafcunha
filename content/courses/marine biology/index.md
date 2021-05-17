@@ -1,5 +1,6 @@
 ---
 title: Marine Biology
+layout: docs  # Do not modify.
 reading_time: false
 summary: Museum of Zoology of the University of São Paulo, 2020
 authors:
