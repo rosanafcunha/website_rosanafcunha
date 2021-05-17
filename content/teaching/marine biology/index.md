@@ -13,6 +13,6 @@ Fall 2020
 
 ---
 
-Descrever a disciplina aqui
+_Chantalia conandae_ Martins & Souto, 2020 (new genus and new species)
 
 ---
