@@ -14,4 +14,8 @@ subtitle: Click to see images in larger size
 
 ---
 
-{{< gallery dir="content/gallery/photos/" >}}
+{{< gallery >}}
+{{< figure link="/gallery/photos/2.JPG caption="Sydney Harbour" >}}
+{{< figure link="/gallery/photos/3.jpg" caption="Capital Chorus" >}}
+{{< figure link="/gallery/photos/4.JPG" caption="Arduino test setup" >}}
+{{< /gallery >}}
