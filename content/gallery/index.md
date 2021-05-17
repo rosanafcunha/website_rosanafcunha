@@ -18,10 +18,6 @@ content:
 
 # front matter ...
 
-gallery_item:
-- album: gallery
-  caption: A caption
-  image: boards.jpg
 ---
 
-{{< gallery >}}
+{{< gallery dir="content/gallery/photos/" />}}
