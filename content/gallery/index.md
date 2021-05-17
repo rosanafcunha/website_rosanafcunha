@@ -12,10 +12,6 @@ weight: 66
 title: Photos
 subtitle: Click to see images in larger size
 
-content:
-  # Page type to display. E.g. post, talk, publication...
-  page_type: gallery
-
 ---
 
 {{< gallery dir="content/gallery/photos/" >}}
