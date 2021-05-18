@@ -7,8 +7,8 @@
 # Page metadata.
 title: Integrative Taxonomy Workshop, II Summer Course in Animal Diversity
 summary: Universidade Federal da Bahia, 2011
-date: "2021-04-09T00:00:00Z"
-lastmod: "2021-04-09T00:00:00Z"
+date: "2011-04-01T00:00:00Z"
+lastmod: "2011-04-01T00:00:00Z"
 draft: false  # Is this a draft? true/false
 toc: false  # Show table of contents? true/false
 type: docs  # Do not modify.
