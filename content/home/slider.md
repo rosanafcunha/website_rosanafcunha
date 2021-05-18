@@ -14,8 +14,6 @@ interval: false
 # Specify a height to ensure a consistent height for each slide.
 height: 300px
 
-
-item:
   item:
   - overlay_color: '#666'  # An HTML color value.
     overlay_img: 5.JPG  # Image path relative to your `static/media/` folder
