@@ -16,7 +16,7 @@ height: 520px
 
 item:
  - overlay_color: '#666'  # An HTML color value.
-   overlay_img: 5.jpeg  # Image path relative to your `static/media/` folder
+   overlay_img: 5_1430x520.jpeg  # Image path relative to your `static/media/` folder
    overlay_filter: 0  # Darken the image. Value in range 0-1. 
  - overlay_color: '#666'  # An HTML color value.
    overlay_img: 3.jpg  # Image path relative to your `static/media/` folder
