@@ -17,8 +17,8 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   example:
-    name: Search
-    weight: 1
+    name: Integrative Taxonomy Workshop
+    weight: 2
 
 ---
 
