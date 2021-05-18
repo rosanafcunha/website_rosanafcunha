@@ -21,7 +21,7 @@ menu:
     name: Overview
     weight: 2
 
---
+---
 
 **Instructor of Record**
 
