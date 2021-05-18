@@ -12,7 +12,7 @@ interval: false
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-height: 500px
+height: 530px
 
 item:
  - overlay_color: '#666'  # An HTML color value.
