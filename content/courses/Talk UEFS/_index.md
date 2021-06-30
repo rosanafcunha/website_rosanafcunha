@@ -5,7 +5,7 @@
 # weight: 1
 
 # Page metadata.
-title: "Review of the Genus _Narcissia_ Gray, 1840 (Echinodermata, Asteroidea): from Morphology to Taxonomy"
+title: "Review of the Genus Narcissia Gray, 1840 (Echinodermata, Asteroidea): from Morphology to Taxonomy"
 summary: Universidade Estadual de Feira de Santana, 2021
 date: "2021-04-09T00:00:00Z"
 lastmod: "2021-04-09T00:00:00Z"
@@ -18,7 +18,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   example:
-    name: Review of the Genus _Narcissia_ Gray, 1840
+    name: Review of the Genus Narcissia Gray, 1840
     weight: 2
 
 ---
