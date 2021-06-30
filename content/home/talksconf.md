@@ -3,7 +3,7 @@
 widget: accomplishments
 headless: true  # This file represents a page section.
 
-weight: 70
+weight: 
 
 title: Talks and Conference Activity
 
@@ -37,7 +37,7 @@ item:
     description: '2nd Latin American Congress of Echinoderms, São Sebastião, Brazil (Poster)'
   - organization: Brazilian Association of Marine Biology
     organization_url: 'https://www.facebook.com/ABBM-Associa%C3%A7%C3%A3o-Brasileira-de-Biologia-Marinha-493904747303537/'
-    title: 'First Record of _Asterinides folium_ (Lütken, 1860) for Northeastern Brazil'
+    title: 'First Record of _Asterinides folium_ (Lütken, 1860) for Northeastern Brazil'
     url: ''
     certificate_url: 'media/Certificado CBBM Trab Echinod.jpg'
     date_start: '2013-05-01'
