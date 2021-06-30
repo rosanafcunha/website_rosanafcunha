@@ -30,8 +30,8 @@
   weight = 60
   
 [[main]]
-  name = "Teaching"
-  url = "courses/"
+  name = "Talks and Conferences"
+  url = "talksconf/"
   weight = 50
 
 [[main]]
