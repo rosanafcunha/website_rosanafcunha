@@ -20,7 +20,7 @@ item:
     content: 'I am left aligned 😄'
     # Choose `center`, `left`, or `right` alignment.
     align: left
-    overlay_color: '#666'  # An HTML color value.
+  - overlay_color: '#666'  # An HTML color value.
     overlay_img: Tomo.png  # Image path relative to your `static/media/` folder
     overlay_filter: 0  # Darken the image. Value in range 0-1. 
 
