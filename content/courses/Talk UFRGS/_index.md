@@ -22,7 +22,7 @@ menu:
     weight: 1
 
 ---
-**Guess Lecturer**
+**Guest Lecture**
 
 Fall 2021
 
