@@ -1,6 +1,10 @@
 ---
 title: Rosana Cunha
-role: Master in Science Museum of Zoology of the University of São Paulo
+# Role/position/tagline
+role: Master of Science
+# Organizations/Affiliations to show in About widget
+organizations:
+- name: Museum of Zoology of the University of São Paulo
 avatar_filename: avatar.jpg
 bio: ""
 interests:
