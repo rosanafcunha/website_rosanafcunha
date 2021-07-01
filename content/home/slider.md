@@ -16,14 +16,12 @@ height: 384px
 
 
 item:
-  - overlay_color: '#666'  # An HTML color value.
+  - title: Hello
+    content: 'I am left aligned 😄'
+    # Choose `center`, `left`, or `right` alignment.
+    align: left
+    overlay_color: '#666'  # An HTML color value.
     overlay_img: Tomo.png  # Image path relative to your `static/media/` folder
     overlay_filter: 0  # Darken the image. Value in range 0-1. 
-  - overlay_color: '#666'  # An HTML color value.
-    overlay_img: sampaio2.jpg  # Image path relative to your `static/media/` folder
-    overlay_filter: 0  # Darken the image. Value in range 0-1. 
-  - overlay_color: '#666'  # An HTML color value.
-    overlay_img: museus_1500x540.jpg  # Image path relative to your `static/media/` folder
-    overlay_filter: 0  # Darken the image. Value in range 0-1.
-    
+
 ---
