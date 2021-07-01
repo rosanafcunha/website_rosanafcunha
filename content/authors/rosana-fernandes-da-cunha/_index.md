@@ -1,11 +1,14 @@
 ---
 title: Rosana Cunha
+avatar_filename: avatar.jpg
+
 # Role/position/tagline
 role: Master of Science
+
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Museum of Zoology of the University of São Paulo
-avatar_filename: avatar.jpg
+
 bio: ""
 interests:
   - Marine Invertebrates (Asteroidea)
