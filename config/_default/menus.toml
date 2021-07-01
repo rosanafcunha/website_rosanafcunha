@@ -33,11 +33,17 @@
   name = "Teaching"
   url = "courses/"
   weight = 50
+  
+[[main]]
+  name = "Photos"
+  url = "gallery/"
+  weight = 70
+  
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 70
+  weight = 80
   
   
  
