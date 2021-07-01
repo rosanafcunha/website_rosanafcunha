@@ -27,7 +27,7 @@
 [[main]]
   name = "NEWS"
   url = "#news"
-  weight = 60
+  weight = 70
   
 [[main]]
   name = "Teaching"
@@ -37,7 +37,7 @@
 [[main]]
   name = "Photos"
   url = "gallery/"
-  weight = 70
+  weight = 60
   
 
 [[main]]
