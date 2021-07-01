@@ -12,15 +12,15 @@ interval: false
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-height: 300px
+height: 380px
 
 
 item:
   - title: Hello
-    content: 'I am left aligned 😄'
+    content: 'Welcome to my sea star world'
     # Choose `center`, `left`, or `right` alignment.
     align: left
-  - overlay_color: '#666'  # An HTML color value.
+    overlay_color: '#666'  # An HTML color value.
     overlay_img: Tomo.png  # Image path relative to your `static/media/` folder
     overlay_filter: 0  # Darken the image. Value in range 0-1. 
 
