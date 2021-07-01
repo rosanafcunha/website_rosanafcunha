@@ -7,7 +7,7 @@ weight: 10
 # ... Put Your Section Options Here (title etc.) ...
 
 title: Hello
-content: Welcome to my sea star world!
+subtitle: Welcome to my sea star world!
 # Choose `center`, `left`, or `right` alignment.
 align: left
 
@@ -16,9 +16,9 @@ design:
     # Name of image in `assets/media/`.
     image: Tomo.png
     # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-    image_darken: 0.6
+    image_darken: 0
     #  Options are `cover` (default), `contain`, or `actual` size.
-    image_size: cover
+    image_size: actual
     # Options include `left`, `center` (default), or `right`.
     image_position: center
     # Use a fun parallax-like fixed background effect on desktop? true/false
