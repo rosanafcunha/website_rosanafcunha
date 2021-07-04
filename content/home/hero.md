@@ -6,6 +6,9 @@ weight: 10
 
 # ... Put Your Section Options Here (title etc.) ...
 
+title: Hello
+subtitle: Welcome to my sea star world!
+
 # Hero image (optional). Enter filename of an image in the assets/media/ folder.
 hero_media: ''
 
@@ -14,7 +17,6 @@ design:
   background:
     # Name of image in `assets/media/`.
     image: Tomo.png
-    height: 380px
     # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
     image_darken: 0
     #  Options are `cover` (default), `contain`, or `actual` size.
