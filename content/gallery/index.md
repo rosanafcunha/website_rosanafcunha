@@ -6,6 +6,8 @@ draft: false
 font: classic
 ---
 
+{{< gallery >}}
+
 
 
 
