@@ -13,7 +13,7 @@ weight: 10
 title: Hello
 
 # Section subtitle
-subtitle: Welcome to my sea star world!
+subtitle: 
 
 # Section design
 design:
@@ -30,7 +30,7 @@ design:
     image_parallax: false
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true
-    height: 380px
+    height: 400px
 ---
 
-
+Welcome to my sea star world!
