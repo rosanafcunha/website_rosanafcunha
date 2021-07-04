@@ -2,7 +2,7 @@
 widget: pages
 #widget_id: ab
 headless: true
-weight: 60
+weight: 50
 title: NEWS
 subtitle: "Click for more info "
 content:
