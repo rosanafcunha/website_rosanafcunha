@@ -10,12 +10,11 @@ headless: true
 weight: 15
 
 # Section title
-title: Hello
+title: 
 
 
 # Section subtitle
-subtitle: Welcome to my sea star world!
-subtitle_position: right
+subtitle: 
 
 # Section design
 design:
