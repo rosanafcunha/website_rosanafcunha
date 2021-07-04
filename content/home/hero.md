@@ -1,20 +1,13 @@
 ---
-# An instance of the Blank widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: blank
+widget: hero
+headless: true  # This file represents a page section.
 
-# This file represents a page section.
-headless: true
+weight: 10
 
-# Order that this section appears on the page.
-weight: 15
+# ... Put Your Section Options Here (title etc.) ...
 
-# Section title
-title: 
-
-
-# Section subtitle
-subtitle: 
+# Hero image (optional). Enter filename of an image in the assets/media/ folder.
+hero_media: ''
 
 # Section design
 design:
@@ -32,7 +25,6 @@ design:
     image_parallax: false
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true
-    
     
 ---
 
