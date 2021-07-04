@@ -1,5 +1,6 @@
 ---
 
-figure link: "gallery/gallery/1.jpg" caption: "Sydney Harbour" 
+gallery:
+  - figure link: "gallery/gallery/1.jpg" caption: "Sydney Harbour" 
 
 ---
