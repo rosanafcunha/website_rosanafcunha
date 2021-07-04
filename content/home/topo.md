@@ -7,10 +7,10 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 1
+weight: 5
 
 # Section title
-title: Hello
+title: 
 
 # Section subtitle
 subtitle: 
