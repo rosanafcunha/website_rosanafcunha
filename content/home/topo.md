@@ -30,7 +30,7 @@ design:
     image_parallax: false
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true
-    height: 350px
+    
 ---
 
 
