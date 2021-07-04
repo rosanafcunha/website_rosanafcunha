@@ -1,6 +1,6 @@
 ---
 
 gallery:
-  - figure link: "gallery/gallery/1.jpg" caption: "Sydney Harbour" 
+- figure link: "gallery/gallery/1.jpg" caption: "Sydney Harbour" 
 
 ---
