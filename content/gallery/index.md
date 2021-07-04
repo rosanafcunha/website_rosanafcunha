@@ -12,6 +12,5 @@ font: classic
 {{< figure link="media/bahia/3.jpg" caption="Arduino test setup" >}}
 {{< /gallery >}}
 
----
 
 
