@@ -1,17 +1,9 @@
 ---
-# An instance of the Blank widget with a Gallery page element.
-# Documentation: https://wowchemy.com/docs/getting-started/page-builder/
-widget: blank
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 
-
-title: Photos
-subtitle: Click to see images in larger size
-
+title: "Photos"
+subtitle: Click to see images in larger size 
+date: 2020-08-10T20:39:13+02:00
+draft: false
+font: classic
 design:
   columns: '3'
 ---
