@@ -8,6 +8,5 @@ font: classic
 
 ---
 
-{{< gallery dir="/media/bahia/" >}}
-  {{< figure link="/media/bahia/1.jpg" caption="Narcissia trigonaria" >}}
+{{< bahia >}}
   
