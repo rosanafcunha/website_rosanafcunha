@@ -9,7 +9,10 @@ font: classic
 gallery_item:
 - album: gallery
   image: 1.jpg
-  caption: Narcissia trigonaria
+  caption: _Narcissia trigonaria_
+  caption-position: bottom
+  hover-effect: grow
+
 
 ---
 
