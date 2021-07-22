@@ -8,5 +8,5 @@ design:
   columns: "3"
 ---
 
-{{< gallery >}}
+{{< gallery >}} {{< load-photoswipe >}}
 
