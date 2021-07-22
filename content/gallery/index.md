@@ -7,8 +7,8 @@ draft: false
 font: classic
 
 gallery_item:
-- album: <gallery>
-  image: <1>.jpg
+- album: gallery
+  image: 1.jpg
   caption: Narcissia trigonaria
 
 ---
