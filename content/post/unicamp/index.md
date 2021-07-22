@@ -21,6 +21,6 @@ Delighted to have been selected for the extension course "Actions, strategies an
 on for over ten years and always fascinates me; and, of course, meeting many new colleagues who share the same interest.
 
 ---
-![talk 2](https://user-images.githubusercontent.com/76624467/118213584-9fff0c00-b444-11eb-8a62-55ff696f6623.png "talk 2")
+![unicamp](https://raw.githubusercontent.com/rosanafcunha/rosanafcunha/master/content/post/unicamp/featured.png "unicamp")
 
 ---
