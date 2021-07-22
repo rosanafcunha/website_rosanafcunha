@@ -9,15 +9,12 @@ font: classic
 gallery_item:
 - album: gallery
   image: 1.jpg
-  caption: _Narcissia trigonaria_
-  caption-position: bottom
-  hover-effect: grow
-
+  caption: _Narcissia trigonaria_ Slade, 1889
+- album: gallery
+  image: 2.jpg
+  caption: _Linckia guildingi_ Gray, 1840
 
 ---
 
 {{< gallery >}} 
 
----
-
-{{< figure link="/gallery/gallery/1.jpg" caption="Narcissia trigonaria" caption-position="bottom" hover-effect="grow" caption-effect="fade" >}}
