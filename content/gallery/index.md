@@ -8,5 +8,5 @@ design:
   columns: '2'
 ---
 
-{{< gallery dir="/media/bahia/" />}}
+{{< gallery dir="/media/bahia/" >}}
 
