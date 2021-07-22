@@ -10,5 +10,5 @@ design:
 
 {{< gallery dir="/media/bahia/" >}}
   {{< figure link="/media/bahia/1.jpg" caption="Narcissia trigonaria" >}}
-  {{< gallery hover-effect="none" caption-effect="slide" >}}
-  {{< gallery caption-position="bottom" caption-effect="slide" >}}
+  {{< gallery dir="/media/bahia/" hover-effect="none" caption-effect="slide" >}}
+  {{< gallery dir="/media/bahia/" caption-position="bottom" caption-effect="slide" >}}
