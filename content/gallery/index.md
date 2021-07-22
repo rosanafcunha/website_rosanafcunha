@@ -7,7 +7,7 @@ font: classic
 ---
 
 {{< gallery >}}
-![Alt text here](/gallery/gallery/1.jpg "Narcissia trigonaria")
+![Narcissia trigonaria](/gallery/gallery/1.jpg "Narcissia trigonaria")
 
 
 
