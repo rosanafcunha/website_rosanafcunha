@@ -9,5 +9,6 @@ design:
 ---
 
 {{< gallery dir="/media/bahia/" >}}
+{{< gallery >}}
   {{< figure link="/media/bahia/1.jpg" caption="Narcissia trigonaria" >}}
-
+{{< gallery >}}
