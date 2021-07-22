@@ -18,3 +18,6 @@ gallery_item:
 
 {{< gallery >}} 
 
+---
+
+{{< figure link="/gallery/gallery/1.jpg" caption="Narcissia trigonaria" caption-position="bottom" hover-effect="grow" caption-effect="fade" >}}
