@@ -1,5 +1,5 @@
 ---
-featured: true
+featured: false
 reading_time: false
 summary: Lecture about the Phylum Echinodermata to the undergraduate students at the Universidade Federal do Rio Grande do Sul (UFRGS)
 authors:
