@@ -8,8 +8,6 @@ font: classic
 
 ---
 
-{{< gallery >}}
-{{< gallery hover-effect="grow" >}}
-{{< gallery caption-position="bottom" caption-effect="slide" >}}
+{{< gallery hover-effect="grow" caption-position="bottom" caption-effect="slide" >}}
 {{< figure link="/gallery/gallery/1.jpg" caption="Narcissia trigonaria" >}}
-{{< gallery >}}
+
