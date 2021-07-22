@@ -8,5 +8,5 @@ font: classic
 
 ---
 
-{{< bahia >}}
+{{< gallery >}}
   
