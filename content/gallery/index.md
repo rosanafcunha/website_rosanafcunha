@@ -7,3 +7,5 @@ font: classic
 ---
 
 {{< gallery dir="/gallery/gallery/" />}} {{< load-photoswipe >}}
+
+---
