@@ -6,6 +6,5 @@ draft: false
 font: classic
 ---
 
----
-{{% gallery dir="/gallery/gallery/" /%}} {{% load-photoswipe %}}
----
+{{% gallery dir="/gallery/gallery/" /%}} 
+
