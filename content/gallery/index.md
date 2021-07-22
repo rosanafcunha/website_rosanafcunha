@@ -8,10 +8,10 @@ font: classic
 
 gallery: 
   figure link: "/gallery/gallery/1.jpg" 
-  caption: "Narcissia trigonaria" 
-  caption-position: "bottom" 
-  hover-effect: "grow" 
-  caption-effect: "fade" 
+  caption: Narcissia trigonaria 
+  caption-position: bottom
+  hover-effect: grow 
+  caption-effect: fade 
 
 ---
 
