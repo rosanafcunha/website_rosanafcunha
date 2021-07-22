@@ -7,7 +7,3 @@ font: classic
 ---
 
 {{< gallery >}}
-![Narcissia trigonaria](/gallery/gallery/1.jpg "Narcissia trigonaria")
-
-
-
