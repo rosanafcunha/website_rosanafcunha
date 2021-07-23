@@ -16,7 +16,7 @@ image:
 
 ---
 
-Delighted to have been selected for this extension course at the University of Campinas ([UNICAMP](https://www.ib.unicamp.br/)), one of the most prestigious universities in Brazil! Can't wait to acquire more knowledge in this area, which I've been working on for over ten years and always fascinates me; and, of course, meeting many new colleagues who who share the same interest and passion for this kind of job.
+Delighted to have been selected for this extension course at the University of Campinas ([UNICAMP](https://www.ib.unicamp.br/)), one of the most prestigious universities in Brazil! Can't wait to acquire more knowledge in this area, which I've been working on for over ten years and always fascinates me, and, of course, meeting many new colleagues who share the same interest and passion for scientific collections.
 
 ---
 
