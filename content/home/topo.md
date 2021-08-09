@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: static/media/Tomo.png
+    image: Tomo.png
     image_darken: 1.0
     image_parallax: true
     image_position: center
