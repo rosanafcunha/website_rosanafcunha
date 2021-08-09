@@ -8,8 +8,8 @@ title:
 
 design:
   background:
-    image: Tomo.png
+    image: Tomo2.png
   spacing:
-    padding: ["35px", "35", "200px", "0"]
+    padding: ["35px", "0", "200px", "0"]
 
 ---
