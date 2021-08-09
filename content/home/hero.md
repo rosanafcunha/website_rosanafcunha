@@ -5,8 +5,7 @@ headless: true
 # ... Put Your Section Options Here (title etc.) ...
 
 weight: 10
-
-title: Hugo Academic Theme Demo
+title: 
 subtitle:
 
 design:
