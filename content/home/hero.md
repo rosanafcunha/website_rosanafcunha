@@ -10,6 +10,6 @@ design:
   background:
     image: Tomo.png
   spacing:
-    padding: ["35px", "0", "200px", "0"]
+    padding: ["35px", "0", "35px", "0"]
 
 ---
