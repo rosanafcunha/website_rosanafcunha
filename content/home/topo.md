@@ -18,7 +18,7 @@ subtitle:
 design:
   background:
     image: Tomo.png
-    image_darken: 1.0
+    image_darken: 0.5
     image_parallax: true
     image_position: center
     image_size: cover
