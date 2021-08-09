@@ -16,7 +16,7 @@ title: Welcome to my sea star world!
 subtitle:
 hero_media: ''
 background:
-    image: Tomo.png
+    image: 'Tomo.png'
     image_darken: 0.1
     image_parallax: true
     image_position: center
