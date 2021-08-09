@@ -9,13 +9,9 @@ title:
 subtitle:
 
 design:
-  columns: "1"
   background:
-    image: Tomo.png
-    image_darken: 0.1
-    image_parallax: true
-    image_position: center
-    image_size: cover
-  spacing:
-    padding: ["220px", "0", "230px", "0"]
+    color: 'navy'
+    # Text color (true=light, false=dark, or remove for the dynamic theme color). 
+    text_color_light: true
+ 
 ---
