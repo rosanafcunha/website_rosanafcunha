@@ -20,9 +20,9 @@ design:
     image: Tomo.png
     image_darken: 0
     image_parallax: true
-    image_position: right
+    image_position: center
     image_size: cover
     text_color_light: false
   spacing:
-    padding: ["600px", "0", "600px", "0"]
+    padding: ["200px", "0", "200px", "0"]
 ---
