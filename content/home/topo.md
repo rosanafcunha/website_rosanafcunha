@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 5
 
-title: Hugo Academic Theme Demo
+title: 
 subtitle:
 
 design:
@@ -27,7 +27,3 @@ design:
   spacing:
     padding: ["20px", "0", "20px", "0"]
 ---
-
-Welcome to the demo of the **academic resumé template** for Wowchemy, the Website Builder for Hugo.
-
-[Explore similar templates](https://wowchemy.com/templates/)
