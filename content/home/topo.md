@@ -24,6 +24,4 @@ design:
     image_position: center
     image_size: cover
     text_color_light: false
-  spacing:
-    padding: ["400px", "1400", "400px", "1400"]
 ---
