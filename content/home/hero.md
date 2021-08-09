@@ -5,8 +5,8 @@ headless: true
 # ... Put Your Section Options Here (title etc.) ...
 
 weight: 10
-title: 
-subtitle:
+title: Welcome
+subtitle: Sea star world
 
 design:
   background:
