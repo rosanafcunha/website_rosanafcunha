@@ -18,11 +18,11 @@ subtitle:
 design:
   background:
     image: Tomo.png
-    image_darken: 0.2
+    image_darken: 0
     image_parallax: true
-    image_position: center
+    image_position: right
     image_size: cover
     text_color_light: false
   spacing:
-    padding: ["1000px", "0", "1000px", "0"]
+    padding: ["20px", "0", "20px", "0"]
 ---
