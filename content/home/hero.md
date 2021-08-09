@@ -15,7 +15,7 @@ design:
     image_darken: 0.1
     image_parallax: true
     image_position: center
-    image_size: actual
+    image_size: cover
   spacing:
     padding: ["220px", "0", "230px", "0"]
 ---
