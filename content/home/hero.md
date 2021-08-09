@@ -6,6 +6,7 @@ headless: true
 
 weight: 10
 title: Welcome to my sea star world
+hero_media: 'tomo.png'
 
 design:
   background:
