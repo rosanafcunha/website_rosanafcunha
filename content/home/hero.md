@@ -6,11 +6,11 @@ headless: true
 
 weight: 10
 title: Welcome
-subtitle: Sea star world
+Sea star world
 
 design:
   background:
-    color: 'navy'
+    color: 'black'
     # Text color (true=light, false=dark, or remove for the dynamic theme color). 
     text_color_light: true
     spacing:
