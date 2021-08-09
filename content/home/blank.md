@@ -10,7 +10,7 @@ weight: 5 # section position on page
 
 design:
   background: 
-    image: sampaio2.jpeg
+    image: Tomo.png
     image_darken: 0.1
     image_parallax: true
     image_position: center
