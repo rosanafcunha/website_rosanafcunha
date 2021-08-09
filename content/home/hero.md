@@ -8,7 +8,7 @@ title: Welcome!
 
 [design.background]
 
-  image: Tomo.png
+image: Tomo.png
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
