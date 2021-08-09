@@ -12,8 +12,9 @@ headless: true
 # Order that this section appears on the page.
 weight: 5
 
-title: 
+title: Welcome to my sea star world!
 subtitle:
+hero_media: ''
 background:
     image: Tomo.png
     image_darken: 0.1
@@ -21,5 +22,5 @@ background:
     image_position: center
     image_size: cover
     text_color_light: false
-    height: 380px
+
 ---
