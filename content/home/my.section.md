@@ -13,5 +13,5 @@ design:
     image: Tomo.png
     image_size: actual
   spacing:
-    padding: ["35px", "0", "35px", "0"]
+    padding: ["65px", "0", "200px", "0"]
 ---
