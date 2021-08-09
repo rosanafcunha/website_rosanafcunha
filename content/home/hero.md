@@ -1,26 +1,17 @@
 ---
-# An instance of the Blank widget.
-# Documentation: https://wowchemy.com/docs/getting-started/page-builder/
-widget: hero
 
-# Activate this widget? true/false
-active: true
+widget: hero  # See https://sourcethemes.com/academic/docs/page-builder/
+headless: false  # This file represents a page section.
+active: true  # Activate this widget? true/false
+weight: 10  # Order that this section will appear.
+title: Welcome!
 
-# This file represents a page section.
-headless: true
+[design.background]
 
-# Order that this section appears on the page.
-weight: 5
+  image: Tomo.png
 
-title: Welcome to my sea star world!
-subtitle:
-hero_media: ''
-background:
-    image: 'Tomo.png'
-    image_darken: 0.1
-    image_parallax: true
-    image_position: center
-    image_size: cover
-    text_color_light: false
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding: ["25px", "0", "200px", "0"]
 
 ---
