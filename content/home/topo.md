@@ -16,7 +16,6 @@ title:
 subtitle:
 
 design:
-  columns: "1"
   background:
     image: Tomo.png
     image_darken: 1.0
