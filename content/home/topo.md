@@ -23,6 +23,6 @@ design:
     image_position: center
     image_size: cover
     text_color_light: false
-   spacing:
-    padding: ["1000px", "1100", "1000px", "1100"]
+  spacing:
+    padding: ["1000px", "0", "1000px", "0"]
 ---
