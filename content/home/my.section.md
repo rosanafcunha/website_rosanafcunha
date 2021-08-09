@@ -11,5 +11,5 @@ design:
   columns: 
   background: 
     image: Tomo.png
-    image_size: actual
+    image_size: contain
 ---
