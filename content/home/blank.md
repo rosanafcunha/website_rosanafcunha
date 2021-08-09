@@ -11,5 +11,5 @@ design:
     image: sampaio.jpeg
     image_size: cover
   spacing:
-    padding: ["220px", "0", "230px", "0"]
+    padding: ["230px", "0", "230px", "0"]
 ---
