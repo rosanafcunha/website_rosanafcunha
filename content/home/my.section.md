@@ -11,5 +11,7 @@ design:
   columns: 
   background: 
     image: Tomo.png
-    image_size: cover
+    image_size: actual
+  spacing:
+    padding: ["35px", "0", "200px", "0"]
 ---
