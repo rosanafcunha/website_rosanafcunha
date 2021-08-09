@@ -5,10 +5,11 @@ headless: true
 # ... Put Your Section Options Here (title etc.) ...
 weight: 5 # section position on page
 design:
+  columns: "1"
   # Choose how many columns the section has. Valid values: 1 or 2.
   background: 
     image: Tomo.png
     image_size: actual
   spacing:
-    padding: ["220px", "0", "230px", "0"]
+    padding: ["220px", "0", "220px", "0"]
 ---
