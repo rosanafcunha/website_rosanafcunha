@@ -23,6 +23,5 @@ design:
     image_position: center
     image_size: cover
     text_color_light: false
-  spacing:
-    padding: ["100px", "20px", "100px", "20px"]
+    height: 380px
 ---
