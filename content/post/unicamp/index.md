@@ -1,5 +1,5 @@
 ---
-featured: true
+featured: false
 reading_time: false
 authors:
 date: 2021-07-12
