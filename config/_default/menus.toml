@@ -22,7 +22,7 @@
 [[main]]
   name = "Experience"
   url = "#experience"
-  weight = 40
+  weight = 60
 
 [[main]]
   name = "NEWS"
@@ -32,12 +32,12 @@
 [[main]]
   name = "Teaching"
   url = "courses/"
-  weight = 50
+  weight = 40
   
 [[main]]
   name = "Photos"
   url = "gallery/"
-  weight = 60
+  weight = 50
   
 
 [[main]]
