@@ -2,13 +2,13 @@
 widget: slider
 headless: true  # This file represents a page section.
 
-weight: "25"
+weight: "10"
 
 # ... Put Your Section Options Here (section position etc.) ...
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval: 'false'
+interval: '4000'
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
