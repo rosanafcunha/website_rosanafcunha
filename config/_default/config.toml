@@ -127,3 +127,13 @@ expiryDate = ["expiryDate"]
   background = "#000000"
   #foreground = "#edf7ff"
   #hover = "#ffba82"
+  
+[params]
+  # Color theme.
+  #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
+  color_theme = "custom"
+  # Menu
+  menu_primary = "#494949"
+  menu_text = "#fff"
+  menu_text_active = "#328cc1"
+  menu_title = "#fff"
