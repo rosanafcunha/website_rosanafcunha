@@ -12,9 +12,6 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Hugo Academic Theme Demo
-subtitle:
-
 design:
   columns: "1"
   background:
