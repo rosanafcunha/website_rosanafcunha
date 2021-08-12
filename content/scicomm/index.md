@@ -14,6 +14,6 @@ Exhibition at the Museum of Zoology, UFBA open to the public.
 
 ---
 
-![mzufba2](mzufba2.JPG){width=50%} ![mzufba](mzufba.jpeg){width=50%}
+![[mzufba2.JPG{width=50%}]] ![mzufba](mzufba.jpeg){width=50%} 
 
 
