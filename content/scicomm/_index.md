@@ -9,4 +9,5 @@ draft: false
 ---
 Museum exhibits
 ---
+![mzufba2](https://raw.githubusercontent.com/rosanafcunha/rosanafcunha/master/static/media/mzufba2.JPG "mzufba2"), ![mzufba](https://raw.githubusercontent.com/rosanafcunha/rosanafcunha/master/static/media/mzufba.jpeg "mzufba")
 
