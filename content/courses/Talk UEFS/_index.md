@@ -34,3 +34,5 @@ Talk about the Asteroidea Class and the research I have developed during my mast
 ([MZUSP](http://mz.usp.br/pt/pagina-inicial/)).
 
 ---
+
+![uefs](https://raw.githubusercontent.com/rosanafcunha/rosanafcunha/master/static/media/uefs.png "uefs")
