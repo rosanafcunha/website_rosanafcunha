@@ -10,8 +10,9 @@ draft: false
 Museum exhibits
 ---
 
-Exhibition at the UFBA Zoology Museum open to the public.
+Exhibition at the Museum of Zoology, UFBA open to the public.
 
-![mzufba2](https://raw.githubusercontent.com/rosanafcunha/rosanafcunha/master/static/media/mzufba2.JPG "mzufba2")
-![mzufba](https://raw.githubusercontent.com/rosanafcunha/rosanafcunha/master/static/media/mzufba.jpeg "mzufba")
+## Show images 
+![](mzufba2.JPG) ![](mzufba.jpeg)
+
 
