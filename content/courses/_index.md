@@ -5,5 +5,5 @@ layout: docs  # Do not modify.
 # Optional header image (relative to `assets/media/` folder).
 header:
   caption: ""
-  image: ""
+  image: "Tomo.png"
 ---
