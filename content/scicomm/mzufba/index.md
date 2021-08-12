@@ -9,4 +9,4 @@ draft: false
 design:
   columns: '2'
 ---
-{{< gallery album="scicomm" >}}
+
