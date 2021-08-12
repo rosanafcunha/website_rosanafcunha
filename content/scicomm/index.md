@@ -12,6 +12,6 @@ Museum exhibits
 
 Exhibition at the Museum of Zoology, UFBA open to the public.
 
-![](mzufba2.JPG) ![](mzufba.jpeg)
+![](mzufba2.JPG){width=50%} ![](mzufba.jpeg){width=50%}
 
 
