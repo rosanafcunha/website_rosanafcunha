@@ -30,6 +30,6 @@ Fall 2014
 
 ---
 
-Descrever a disciplina aqui
+I taught courses focused on environmental issues for students in the technical Business course. My role was to educate them about the importance of a culture of environmental preservation within companies, and how to resolve/mitigate the impacts caused by industrial activities on our planet.
 
 ---
