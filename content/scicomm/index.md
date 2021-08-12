@@ -9,6 +9,8 @@ draft: false
 ---
 Museum exhibits
 ---
-![mzufba2](https://raw.githubusercontent.com/rosanafcunha/rosanafcunha/master/static/media/mzufba2.JPG "mzufba2")
+
+Exhibition at the UFBA Zoology Museum ![mzufba2](https://raw.githubusercontent.com/rosanafcunha/rosanafcunha/master/static/media/mzufba2.JPG "mzufba2") open to the public.
+
 ![mzufba](https://raw.githubusercontent.com/rosanafcunha/rosanafcunha/master/static/media/mzufba.jpeg "mzufba")
 
