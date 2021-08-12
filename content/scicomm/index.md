@@ -14,6 +14,6 @@ Exhibition at the Museum of Zoology, [UFBA](https://www.ufba.br) open to the pub
 
 ---
 
-![](mzufba2.JPG) ![mzufba](mzufba.jpeg)
+![](mzufba2.JPG)
 
 
