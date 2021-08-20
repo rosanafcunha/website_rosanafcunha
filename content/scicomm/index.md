@@ -20,7 +20,7 @@ Exhibition at the Museum of Zoology, [UFBA](https://www.ufba.br) open to the pub
 Didactic models
 ---
 
-Development of didactic models for topical explanation of ecology and zoology to undergraduate students: (1) how chemicals produced by mangroves help protect coral reefs; (2) the evolution of the vertebral column in mammals.
+Development of didactic models for the explanation of contents for undergraduate students in the ecology and zoology classes: (1) how chemical substances produced by mangroves help to protect coral reefs; (2) the evolution of the vertebral column in mammals.
 
 ---
 
