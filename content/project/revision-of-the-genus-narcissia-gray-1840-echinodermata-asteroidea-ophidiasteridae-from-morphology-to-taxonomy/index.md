@@ -1,6 +1,5 @@
 ---
-title: "Review of the genus _Narcissia_ Gray, 1840 (Echinodermata: Asteroidea:
-  Ophidiasteridae): from morphology to taxonomy"
+title: "Review of the genus _Narcissia_ Gray, 1840: from morphology to taxonomy"
 date: 2021-01-01T04:24:04.142Z
 summary: Review the taxonomy of the genus *Narcissia*, throughout its range of
   distribution, from morphological studies.
