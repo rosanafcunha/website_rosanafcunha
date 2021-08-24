@@ -2,10 +2,10 @@
 name = "Minimal"
 
 # Optional Google font URL
-google_fonts = "family=Bitter:wght@500"
+google_fonts = "family=Amiri&display=swap"
 
 # Font families
-heading_font = "Bitter"
-body_font = "Bitter"
-nav_font = "Bitter"
-mono_font = "Bitter"
+heading_font = "Amiri"
+body_font = "Amiri"
+nav_font = "Amiri"
+mono_font = "Amiri"
