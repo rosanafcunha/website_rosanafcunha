@@ -2,7 +2,7 @@
 name = "Minimal"
 
 # Optional Google font URL
-google_fonts = "family=Besley:wght@450" "family=Amiri&display=swap"
+google_fonts = "family=Besley:wght@450""family=Amiri&display=swap"
 
 # Font families
 heading_font = "Amiri"
