@@ -7,10 +7,10 @@ draft: false
 ---
 
 ---
-Museum exhibits
+Museum exhibit
 ---
 
-Exhibition at the Museum of Zoology, [UFBA](https://www.ufba.br) open to the public.
+Exhibition at the Museum of Zoology, ([UFBA](https://www.ufba.br)), open to the public.
 
 ---
 
@@ -25,5 +25,15 @@ Development of didactic models for the explanation of contents for undergraduate
 ---
 
 ![](mode.png)
+
+---
+Environmental Education
+---
+
+Activity for students of the Integrated Center for Support to Children and Adolescents (CIAC), inserted in a community with socio-economic vulnerability in Salvador, Brazil. Five workshops were held whose central theme revolved around sustainable alternatives for reusing and recycling solid and organic waste. Work team: Amanda Alves, Diana Rezende, Rosana Cunha and Roseane Moreira.
+
+---
+
+![](edamb.png)
 
 
