@@ -30,7 +30,7 @@ Development of didactic models for the explanation of contents for undergraduate
 Environmental Education
 ---
 
-Activity for students of the Integrated Center for Support to Children and Adolescents (CIAC), inserted in a community with socio-economic vulnerability in Salvador, Brazil. Five workshops were held whose central theme revolved around sustainable alternatives for reusing and recycling solid and organic waste. Work team: Amanda Alves, Diana Rezende, Rosana Cunha and Roseane Moreira.
+Activity for students of the Integrated Center for Support to Children and Adolescents (CIAC), inserted in a community with socio-economic vulnerability in Salvador, Brazil. Five workshops were held whose central theme revolved around sustainable alternatives for reusing and recycling solid and organic waste. **Work team:** Amanda Alves, Diana Rezende, Rosana Cunha and Roseane Moreira.
 
 ---
 
