@@ -10,7 +10,7 @@ draft: false
 Museum exhibit
 ---
 
-Exhibition at the Museum of Zoology, ([UFBA](https://www.ufba.br)), open to the public.
+Exhibition at the Museum of Zoology, [UFBA](https://www.ufba.br), open to the public.
 
 ---
 
