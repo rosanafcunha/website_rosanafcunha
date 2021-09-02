@@ -93,7 +93,7 @@ phone = "+55 (13) 3229-0100"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Federal University of São Paulo - UNIFESP, Marine Ecology and Conservation Laboratoryl", city = "Santos", region = "SP", postcode = "11015-020", country = "Brazil", country_code = ""}
+address = {street = "Federal University of São Paulo - UNIFESP, Marine Ecology and Conservation Laboratory", city = "Santos", region = "SP", postcode = "11015-020", country = "Brazil", country_code = "BRA"}
 
 
 # Geographic coordinates
@@ -112,13 +112,13 @@ address = {street = "Federal University of São Paulo - UNIFESP, Marine Ecology 
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/rosannafcunha"},
-  {icon = "skype", icon_pack = "fab", name = "Skype", link = "skype:rosana.fcunha90?call"},
+# contact_links = [
+  #{icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/rosannafcunha"},
+  #{icon = "skype", icon_pack = "fab", name = "Skype", link = "skype:rosana.fcunha90?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  ]
+  #]
 
 ############################
 ## Social
