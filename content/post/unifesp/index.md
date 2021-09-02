@@ -20,6 +20,6 @@ University of São Paulo ([UNIFESP](https://www.unifesp.br/campus/san7/)). Such 
 
 
 ---
-![picture 1 of my master](https://raw.githubusercontent.com/rosanafcunha/rosanafcunha/master/content/post/getting-started/msc2.png "Masters Degree")
+![UNIFESP](https://raw.githubusercontent.com/rosanafcunha/rosanafcunha/master/content/post/unifesp/featured.jpeg "UNIFESP")
 
 ---
