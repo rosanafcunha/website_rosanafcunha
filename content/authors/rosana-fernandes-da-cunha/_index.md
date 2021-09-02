@@ -7,7 +7,7 @@ role: Master of Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Federal University of São Paulo
+- name: Federal University of São Paulo UNIFESP
 
 bio: ""
 interests:
