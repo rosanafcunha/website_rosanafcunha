@@ -3,7 +3,7 @@ title: Rosana Cunha
 avatar_filename: avatar.jpg
 
 # Role/position/tagline
-role: Researcher
+role: Marine Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
