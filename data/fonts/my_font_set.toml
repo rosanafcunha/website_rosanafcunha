@@ -2,10 +2,10 @@
 name = "Minimal"
 
 # Optional Google font URL
-google_fonts = "family=Besley:wght@450" 
+google_fonts = "family=Lora&display=swap" 
 
 # Font families
-heading_font = "Besley"
-body_font = "Besley"
-nav_font = "Besley"
-mono_font = "Besley"
+heading_font = "Lora"
+body_font = "Lora"
+nav_font = "Lora"
+mono_font = "Lora"
