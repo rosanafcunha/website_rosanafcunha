@@ -2,10 +2,10 @@
 name = "Minimal"
 
 # Optional Google font URL
-google_fonts = "family=Libre+Baskerville&display=swap" 
+google_fonts = "family=Kaisei+Decol:wght@500&display=swap" 
 
 # Font families
-heading_font = "Libre Baskerville"
-body_font = "Libre Baskerville"
-nav_font = "Libre Baskerville"
-mono_font = "Libre Baskerville"
+heading_font = "Kaisei Decol"
+body_font = "Kaisei Decol"
+nav_font = "Kaisei Decol"
+mono_font = "Kaisei Decol"
