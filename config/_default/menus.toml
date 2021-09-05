@@ -34,20 +34,20 @@
   url = "scicomm/"
   weight = 60
 
-[[main]]
-  name = "Experience"
-  url = "#experience"
-  weight = 70
+#[[main]]
+  #name = "Experience"
+  #url = "#experience"
+  #weight = 70
   
 [[main]]
   name = "NEWS"
   url = "#news"
-  weight = 80
+  weight = 70
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 90
+  weight = 80
   
   
  
