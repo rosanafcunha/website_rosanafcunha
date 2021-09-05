@@ -2,7 +2,7 @@
 name = "Minimal"
 
 # Optional Google font URL
-google_fonts = "Noto+Serif+JP:wght@400&display=swap" 
+google_fonts = "Noto+Serif+JP:wght@500&display=swap" 
 
 # Font families
 heading_font = "Noto Serif JP"
