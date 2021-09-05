@@ -93,7 +93,7 @@ phone = "+55 (13) 3229-0100"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Federal University of São Paulo, Marine Ecology and Conservation Laboratory, 136 Silva Jardim Street, Santos, Brazil", postcode = "11015-020"}
+address = {street = "Federal University of São Paulo, Marine Ecology and Conservation Laboratory, 144 Dr. Carvalho de Mendonça Street, Santos, Brazil", postcode = "11070-100"}
 
 
 # Geographic coordinates
