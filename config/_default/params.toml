@@ -93,7 +93,8 @@ phone = "+55 (13) 3229-0100"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Federal University of São Paulo, Marine Ecology and Conservation Laboratory, 144 Dr. Carvalho de Mendonça Street, Santos, Brazil", postcode = ""}
+[address] 
+street = "Federal University of São Paulo, Marine Ecology and Conservation Laboratory, 144 Dr. Carvalho de Mendonça Street, Santos, Brazil"
 
 
 # Geographic coordinates
@@ -148,7 +149,7 @@ address_format = "en-us"
 ############################
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.
-main_menu = {align = "c", show_logo = true, highlight_active_link = true, show_language = false, show_day_night = false, show_search = true}
+main_menu = {align = "l", show_logo = true, highlight_active_link = true, show_language = false, show_day_night = false, show_search = true}
 show_logo = {highlight_active_link = false}
 
 # Show estimated reading time for posts? (true/false)
