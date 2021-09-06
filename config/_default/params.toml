@@ -162,6 +162,7 @@ docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 sharing = true
 
 # Show a copyright license from creativecommons.org in the site footer?
+site footer = true
 # Page specific copyright licenses are also possible by adding this option to a page's front matter.
 [copyright_license]
   enable = false
