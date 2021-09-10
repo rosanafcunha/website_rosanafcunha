@@ -45,13 +45,14 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 [outputs]
   home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
   section = [ "HTML", "RSS" ]
+  
+# Not sure about these
+#[mediaTypes."application/manifest+json"]
+#  suffixes = ["webmanifest"]
 
-[mediaTypes."application/manifest+json"]
-  suffixes = ["webmanifest"]
-
-[outputFormats.WebAppManifest]
-  mediaType = "application/manifest+json"
-  rel = "manifest"
+#[outputFormats.WebAppManifest]
+#  mediaType = "application/manifest+json"
+#  rel = "manifest"
 
 # Configure the Markdown renderer.
 [markup]
