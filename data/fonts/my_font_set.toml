@@ -2,10 +2,10 @@
 name = "Minimal"
 
 # Optional Google font URL
-google_fonts = "family=Kaisei+HarunoUmi&display=swap" 
+google_fonts = "family=Lora&display=swap" 
 
 # Font families
-heading_font = "Kaisei HarunoUmi"
-body_font = "Kaisei HarunoUmi"
-nav_font = "Kaisei HarunoUmi"
-mono_font = "Kaisei HarunoUmi"
+heading_font = "Lora"
+body_font = "Lora"
+nav_font = "Lora"
+mono_font = "Lora"
