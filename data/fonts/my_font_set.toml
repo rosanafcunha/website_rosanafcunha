@@ -2,10 +2,10 @@
 name = "Minimal"
 
 # Optional Google font URL
-google_fonts = "family=Libre+Baskerville&display=swap" 
+google_fonts = "family=Noto+Serif+TC:wght@300&display=swap" 
 
 # Font families
-heading_font = "Libre Baskerville"
-body_font = "Libre Baskerville"
-nav_font = "Libre Baskerville"
-mono_font = "Libre Baskerville"
+heading_font = "Noto Serif TC"
+body_font = "Noto Serif TC"
+nav_font = "Noto Serif TC"
+mono_font = "Noto Serif TC"
