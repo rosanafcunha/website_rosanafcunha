@@ -26,7 +26,7 @@ menu:
 
 Fall 2021
 
-[WEBSITE](http://www.ufrgs.br/comgradbio/)
+[WEBSITE](https://www.ufrgs.br/biociencias/)
 
 ---
 
