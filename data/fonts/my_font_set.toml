@@ -2,10 +2,10 @@
 name = "Minimal"
 
 # Optional Google font URL
-google_fonts = "family=Lora&display=swap" 
+google_fonts = "amily=Playfair+Display&display=swap" 
 
 # Font families
-heading_font = "Lora"
-body_font = "Lora"
-nav_font = "Lora"
-mono_font = "Lora"
+heading_font = "Playfair Display"
+body_font = "Playfair Display"
+nav_font = "Playfair Display"
+mono_font = "Playfair Display"
