@@ -2,10 +2,10 @@
 name = "Minimal"
 
 # Optional Google font URL
-google_fonts = "Nanum+Myeongjo&display=swap" 
+google_fonts = "amily=Cormorant+Garamond:wght@500&display=swap" 
 
 # Font families
-heading_font = "Nanum Myeongjo"
-body_font = "Nanum Myeongjo"
-nav_font = "Nanum Myeongjo"
-mono_font = "Nanum Myeongjo"
+heading_font = "Cormorant Garamond"
+body_font = "Cormorant Garamond"
+nav_font = "Cormorant Garamond"
+mono_font = "Cormorant Garamond"
