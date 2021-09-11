@@ -2,7 +2,7 @@
 name = "Minimal"
 
 # Optional Google font URL
-google_fonts = "amily=Cormorant+Garamond:wght@500&display=swap" 
+google_fonts = "family=Cormorant+Garamond:wght@500&display=swap" 
 
 # Font families
 heading_font = "Cormorant Garamond"
