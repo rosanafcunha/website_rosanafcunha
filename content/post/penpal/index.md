@@ -21,6 +21,5 @@ look like and do at work and inspire all students to explore a future in STEM. I
 pal is a 8th grade student from Los Angeles, CA, and I'm really looking forward to starting our letters exchanges soon!
 
 ---
-![penpal](https://user-images.githubusercontent.com/76624467/118213584-9fff0c00-b444-11eb-8a62-55ff696f6623.png "penpal")
-
+![penpal](https://raw.githubusercontent.com/rosanafcunha/rosanafcunha/master/content/post/penpal/featured.png "penpal")
 ---
