@@ -2,10 +2,10 @@
 name = "Minimal"
 
 # Optional Google font URL
-google_fonts = "amily=Playfair+Display&display=swap" 
+google_fonts = "Nanum+Myeongjo&display=swap" 
 
 # Font families
-heading_font = "Playfair Display"
-body_font = "Playfair Display"
-nav_font = "Playfair Display"
-mono_font = "Playfair Display"
+heading_font = "Nanum Myeongjo"
+body_font = "Nanum Myeongjo"
+nav_font = "Nanum Myeongjo"
+mono_font = "Nanum Myeongjo"
