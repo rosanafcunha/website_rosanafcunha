@@ -2,10 +2,10 @@
 name = "Minimal"
 
 # Optional Google font URL
-google_fonts = "family=Kaisei+Decol:wght@500&display=swap" 
+google_fonts = "family=Kaisei+HarunoUmi&display=swap" 
 
 # Font families
-heading_font = "Kaisei Decol"
-body_font = "Kaisei Decol"
-nav_font = "Kaisei Decol"
-mono_font = "Kaisei Decol"
+heading_font = "Kaisei HarunoUmi"
+body_font = "Kaisei HarunoUmi"
+nav_font = "Kaisei HarunoUmi"
+mono_font = "Kaisei HarunoUmi"
