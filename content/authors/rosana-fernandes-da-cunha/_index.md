@@ -11,7 +11,7 @@ organizations:
 
 bio: ""
 interests:
-  - Marine Invertebrates (Asteroidea)
+  - Marine Invertebrates 
   - Evolutionary Biology
   - Phylogenomics
   - Bioinformatics
