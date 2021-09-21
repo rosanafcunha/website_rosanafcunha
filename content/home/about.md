@@ -20,7 +20,3 @@ title: Biography
 author: rosana-fernandes-da-cunha
   
 ---
-
-header:
-  caption: ""
-  image: "nar3.png"
