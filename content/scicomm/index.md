@@ -10,7 +10,7 @@ draft: false
 _Letters to a Pre-Scientist_ 
 ---
 
-Inspire students’ curiosity about a future in STEM! The snail mail model was selected because it is low cost, accessible worldwide, and a unique way to facilitate human connection. Click at the link to know more about this amazing project: [Letters to a Pre-Scientist](https://prescientist.org/)
+Inspire students’ curiosity about a future in STEM! The snail mail model was selected because it is low cost, accessible worldwide, and a unique way to facilitate human connection. Click at the link to know more about this amazing project: [Letters to a Pre-Scientist](https://prescientist.org/).
 
 
 ![](lps.png)
