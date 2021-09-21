@@ -15,7 +15,7 @@ that their lack of access to STEM role models and narrow vision of what it meant
 
 ---
 
-![](featured.png)
+![](lps.png)
 
 ---
 Museum exhibit
