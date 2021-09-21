@@ -18,4 +18,8 @@ title: Biography
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: rosana-fernandes-da-cunha
+
+header:
+  image: "nar3.png"
+  caption: "Image credit: [**Geo**](https://github.com/gcushen/)"
 ---
