@@ -21,5 +21,6 @@ author: rosana-fernandes-da-cunha
 
 header:
   image: "nar3.png"
-  caption: "Image credit: [**Geo**](https://github.com/gcushen/)"
+  caption: "Image credit"
+  
 ---
