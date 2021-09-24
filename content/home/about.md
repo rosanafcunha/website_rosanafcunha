@@ -13,10 +13,6 @@ headless: true
 weight: 30
 
 title: Biography
-# Optional header image (relative to `assets/media/` folder).
-header:
-  caption: ""
-  image: "nar.jpg"
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
