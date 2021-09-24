@@ -19,11 +19,11 @@ design:
   columns: ""
   background:
     image: nar3.png
-    image_darken: 1.0
+    image_darken: 0
     image_parallax: true
     image_position: center
     image_size: cover
     text_color_light: false
   spacing:
-    padding: ["200px", "0", "200px", "0"]
+    padding: ["150px", "0", "150px", "0"]
 ---
