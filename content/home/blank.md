@@ -20,10 +20,10 @@ design:
   background:
     image: nar3.png
     image_darken: 0
-    image_parallax: true
+    image_parallax: false
     image_position: center
     image_size: actual
     text_color_light: false
   spacing:
-    padding: ["100px", "0", "100px", "0"]
+    padding: ["20px", "0", "20px", "0"]
 ---
