@@ -15,12 +15,8 @@ weight: 10
 title: 
 subtitle:
 
-design:
-  background:
-    image: nar3.png
-    image_darken: 0
-    image_parallax: false
-    image_position: center
-    image_size: actual
-    text_color_light: false
+# Optional header image (relative to `assets/media/` folder).
+header:
+  caption: ""
+  image: "nar3.png"
 ---
