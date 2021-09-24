@@ -16,7 +16,6 @@ title:
 subtitle:
 
 design:
-  columns: ""
   background:
     image: nar3.png
     image_darken: 0
