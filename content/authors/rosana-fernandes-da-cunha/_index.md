@@ -64,10 +64,6 @@ education:
       institution: Universidade Federal da Bahia
       year: 2013
 superuser: true
-# Optional header image (relative to `assets/media/` folder).
-header:
-  caption: ""
-  image: "nar.jpg"
   
 ---
 I am interested in understanding the biodiversity of Asteroidea. I have been working with the morphological taxonomy of sea stars since 2009, and recently I have obtained my Master's Degree in Systematics, Animal Taxonomy and Biodiversity. My studies have been focused on Brazilian sea stars, some of which also occur in oceanic islands. I got my Bachelor's Degree and my Teacher Licensure in Biological Sciences at the Universidade Federal da Bahia, Brazil ([UFBA](https://www.ufba.br)) with an exchange period at the Fairleigh Dickinson University ([FDU](https://www.fdu.edu)), New Jersey, USA, and my MSc at the Museum of Zoology of the University of São Paulo ([MZUSP](https://www.mz.usp.br)) with an exchange period at the National Museum of Natural History, Smithsonian Institution ([NMNH](https://naturalhistory.si.edu)), Washington D.C., USA.
