@@ -3,9 +3,6 @@
 # Documentation: https://wowchemy.com/docs/getting-started/page-builder/
 widget: blank
 
-content:
-  page_type: blank
-
 # Activate this widget? true/false
 active: true
 
@@ -13,12 +10,18 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 10
+weight: 15
+
+title: 
+subtitle:
 
 design:
-  view: 2
-  spacing:
-    # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["40px", "0", "40px", "0"]  
+  background:
+    image: "nar3.png"
+    image_darken: 0
+    image_parallax: false
+    image_position: center
+    image_size: actual
+    text_color_light: false
     
 ---
