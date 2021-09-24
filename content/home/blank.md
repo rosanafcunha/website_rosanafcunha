@@ -12,8 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: Sea stars
-subtitle: uncovering the beauty of the oceans
+title: ""
+subtitle: ""
 
 design:
   background:
