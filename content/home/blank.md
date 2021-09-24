@@ -17,12 +17,11 @@ subtitle:
 
 design:
   background:
-    image: nar3.png
+    image: "nar3.png"
     image_darken: 0
     image_parallax: false
     image_position: center
     image_size: actual
     text_color_light: false
-    height: 380px
     
 ---
