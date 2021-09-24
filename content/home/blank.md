@@ -23,4 +23,6 @@ design:
     image_position: center
     image_size: actual
     text_color_light: false
+    height: 380px
+    
 ---
