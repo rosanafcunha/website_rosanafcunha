@@ -12,9 +12,6 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: "                                                                                "
-subtitle: "                                                                                                          "
-
 design:
   background:
     image: "nar3.png"
