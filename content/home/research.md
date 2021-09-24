@@ -7,7 +7,7 @@ headless: true  # This file represents a page section.
 
 title: Research
 
-weight: 30
+weight: 35
 
 content:
   # Page type to display. E.g. project.
