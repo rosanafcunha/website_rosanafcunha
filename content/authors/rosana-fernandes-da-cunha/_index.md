@@ -1,6 +1,8 @@
 ---
 title: Rosana Cunha
 avatar_filename: avatar.jpg
+show_header: true
+sidebar_left: true
 
 # Role/position/tagline
 role: Marine Researcher
