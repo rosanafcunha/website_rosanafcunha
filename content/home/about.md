@@ -13,11 +13,6 @@ headless: true
 weight: 30
 
 title: Biography
-## Configure header of page
-text_align_right: false
-show_title_as_headline: false
-headline: |
-    Hi, my name is Hugo Apéro. Nice to meet you.
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
