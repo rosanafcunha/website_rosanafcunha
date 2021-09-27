@@ -10,7 +10,7 @@ primary = "#2962FF"
 # Menu
 menu_primary = "#F7F7F7"
 menu_text = "#CDCCCC"
-menu_text_active = "#2962FF"
+menu_text_active = "#000000"
 menu_title = "#CDCCCC"
 menu_title_active = "#CDCCCC"
 padding = ["20px", "0", "20px", "0"]
