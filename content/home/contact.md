@@ -3,6 +3,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
 sidebar_left: true
+  - "<a class="twitter-timeline" data-lang="en" data-width="270" data-height="300" href="https://twitter.com/rosannafcunha?ref_src=twsrc%5Etfw">Tweets by rosannafcunha</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>"
 
 # This file represents a page section.
 headless: true
@@ -19,4 +20,4 @@ design:
 
 ---
 
-<a class="twitter-timeline" data-lang="en" data-width="270" data-height="300" href="https://twitter.com/rosannafcunha?ref_src=twsrc%5Etfw">Tweets by rosannafcunha</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
