@@ -1,6 +1,7 @@
 ---
 widget: blank
 headless: true
+sidebar_right: true
 
 # ... Put Your Section Options Here (title etc.) ...
 title: 
