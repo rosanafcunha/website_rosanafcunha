@@ -129,3 +129,9 @@ expiryDate = ["expiryDate"]
   background = "#000000"
   #foreground = "#edf7ff"
   #hover = "#ffba82"
+  
+[params.sidebar.twitter]
+    path = "sidebar/twitter"
+    [params.sidebar.twitter.partial]
+        path = "sidebar/twitter/twitter.html"
+        cache = true
