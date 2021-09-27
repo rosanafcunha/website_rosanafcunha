@@ -5,6 +5,7 @@ widget: contact
 
 # This file represents a page section.
 headless: true
+sidebar_right: true
 
 # Order that this section appears on the page.
 weight: 130
