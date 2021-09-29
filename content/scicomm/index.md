@@ -10,7 +10,7 @@ header:
   image: "talking.png"
 ---
 
----
+
 **Letters to a Pre-Scientist**
 ---
 
