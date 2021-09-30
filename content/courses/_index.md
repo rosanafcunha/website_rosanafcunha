@@ -1,5 +1,5 @@
 ---
-title: "Courses Taught"
+title: ""
 layout: docs  # Do not modify.
 design:
   spacing:
