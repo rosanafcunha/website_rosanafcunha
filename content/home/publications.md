@@ -35,5 +35,8 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 4
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["50px", "0", "50px", "0"]
   
 ---
