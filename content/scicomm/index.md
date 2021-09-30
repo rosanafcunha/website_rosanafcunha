@@ -7,7 +7,7 @@ draft: false
 # Optional header image (relative to `assets/media/` folder).
 header:
   caption: ""
-  image: "scicomm.png"
+  image: "scicomm1.png"
 ---
 
 ---
