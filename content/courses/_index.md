@@ -9,6 +9,6 @@ design:
 # Optional header image (relative to `assets/media/` folder).
 header:
   caption: ""
-  image: "ta2.png"
+  image: "ta3.png"
   
 ---
