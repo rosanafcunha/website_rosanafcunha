@@ -6,7 +6,7 @@ authors:
   - Cunha
   - R. & Tavares
   - M. 
-doi: https://www.doi.org/10.1017/S0025315421000783
+doi: https://doi.org/10.1017/S0025315421000783
 publication: _Journal of the Marine Biological Association of the United Kingdom_
 draft: false
 featured: false
