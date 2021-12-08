@@ -21,6 +21,6 @@ links:
   - name: Project
     url: https://www.rosanacunha.com/project/revision-of-the-genus-narcissia-gray-1840-echinodermata-asteroidea-ophidiasteridae-from-morphology-to-taxonomy/
   - name: Sup. Material
-    url: files/Cunhaetal.2021_Supplementalmaterial.pdf
+    url: files/CunhaandTavares2021_Supplementary Material.pdf
 
 ---
