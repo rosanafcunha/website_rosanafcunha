@@ -7,7 +7,7 @@ authors:
   - R. & Tavares
   - M. 
 doi: https://doi.org/10.1017/S0025315421000783
-publication: _Journal of the Marine Biological Association of the United Kingdom_
+publication: _Journal of the Marine Biological Association of the United Kingdom_"(showcased on cover)"
 draft: false
 featured: false
 projects:
