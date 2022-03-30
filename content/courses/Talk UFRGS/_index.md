@@ -6,7 +6,7 @@
 
 # Page metadata.
 title: Phylum Echinodermata
-summary: Universidade Federal do Rio Grande do Sul, 2021
+summary: Universidade Federal do Rio Grande do Sul - UFRGS, 2021
 date: "2021-05-12T00:00:00Z"
 lastmod: "2021-05-20T00:00:00Z"
 draft: false  # Is this a draft? true/false
