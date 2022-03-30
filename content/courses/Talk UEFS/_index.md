@@ -6,7 +6,7 @@
 
 # Page metadata.
 title: "Review of the Genus Narcissia Gray, 1840 (Echinodermata, Asteroidea): from Morphology to Taxonomy"
-summary: Universidade Estadual de Feira de Santana, 2021
+summary: Universidade Estadual de Feira de Santana - UEFS, 2021
 date: "2021-04-09T00:00:00Z"
 lastmod: "2021-04-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
