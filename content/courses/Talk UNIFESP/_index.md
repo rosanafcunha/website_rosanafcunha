@@ -5,7 +5,7 @@
 # weight: 1
 
 # Page metadata.
-title: Unraveling the beauty of the sea stars: new tools and discoveries
+title: "Unraveling the beauty of the sea stars: new tools and discoveries"
 summary: Universidade Federal de São Paulo, 2021
 date: "2021-12-12T00:00:00Z"
 lastmod: "2021-12-20T00:00:00Z"
@@ -18,8 +18,8 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   example:
-    name: Unraveling the beauty of the sea stars: new tools and discoveries
-    weight: 1
+    name: "Unraveling the beauty of the sea stars: new tools and discoveries"
+    weight: 4
 
 ---
 **Guest Lecture**
