@@ -6,7 +6,7 @@
 
 # Page metadata.
 title: Environmental Control and Environmental Impact Management
-summary: "State Center for Vocational Education in Health and Management (High School Teacher), 2014"
+summary: "State Center for Vocational Education in Health and Management (High School Teacher) - CEEP, 2014"
 date: "2014-04-01T00:00:00Z"
 lastmod: "2014-06-18T00:00:00Z"
 draft: false  # Is this a draft? true/false
