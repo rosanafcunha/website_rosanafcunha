@@ -24,7 +24,7 @@ menu:
 ---
 **Guest Lecture**
 
-Summer 2021
+Fall 2021
 
 [WEBSITE](http://www.dcbio.uefs.br/)
 
