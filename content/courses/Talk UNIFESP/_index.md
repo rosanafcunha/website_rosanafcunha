@@ -8,7 +8,7 @@
 title: Unraveling the beauty of the sea stars: new tools and discoveries
 summary: Universidade Federal de São Paulo, 2021
 date: "2021-12-12T00:00:00Z"
-lastmod: "2021-05-20T00:00:00Z"
+lastmod: "2021-12-20T00:00:00Z"
 draft: false  # Is this a draft? true/false
 toc: false  # Show table of contents? true/false
 type: docs  # Do not modify.
