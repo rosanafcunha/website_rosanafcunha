@@ -18,7 +18,7 @@ What a wonderful surprise I received in my email today! I'm so happy for this re
 a great inspiration for my pal! Thank you so much (([Letters to a Pre-Scientist](https://prescientist.org/)) and Mr. Gabriel. Can't wait to sign up again next round! 
 
 ---
-![cover](https://raw.githubusercontent.com/rosanafcunha/rosanafcunha/master/content/post/cover/featured.jpg "cover")
+![LPS](https://raw.githubusercontent.com/rosanafcunha/website_rosanafcunha/master/content/post/LPS/featured.png "LPS")
 
 ---
 
