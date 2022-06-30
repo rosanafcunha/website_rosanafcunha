@@ -1,6 +1,6 @@
 --- 
 reading_time: false
-summary: "Recognition for my volunteer JOB in the Letters to a Pre-Scientist project"
+summary: "Recognition for my volunteer job in the Letters to a Pre-Scientist project"
 authors:
 date: 2022-06-17
 profile: false
