@@ -18,6 +18,6 @@ Working with databases inside the museum's collections always raised my interest
 Now, I am finally having time to put to learn more about this amazing area. First step, done!
 
 ---
-![startse](https://raw.githubusercontent.com/rosanafcunha/website_rosanafcunha/master/content/post/LPS/featured.png "startse")
+![startse](https://raw.githubusercontent.com/rosanafcunha/website_rosanafcunha/master/content/post/startse/featured.png "startse")
 
 ---
