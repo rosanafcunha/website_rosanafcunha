@@ -5,7 +5,7 @@ authors:
 date: 2022-07-29
 profile: false
 comments: false
-title: Programming Course accomplished!  
+title: Programming Course accomplished 
 image:
   caption: ""
   focal_point: ""
