@@ -39,7 +39,7 @@ social:
     icon: lattes
   - display:
       header: false
-    link: files/CV - Rosana Cunha.pdf
+    link: files/CV_website.pdf
     icon_pack: ai
     icon: cv
   - display:
