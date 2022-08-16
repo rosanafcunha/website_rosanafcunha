@@ -14,7 +14,7 @@ image:
 ---
 ---
 
-What great news! My picture made the cover of Vol. 101, Issue 6 of the Journal of the Marine Biological Association ([JMBA](https://www.cambridge.org/core/journals/journal-of-the-marine-biological-association-of-the-united-kingdom)), so happy!!!
+What great news! My picture made the cover of Vol. 101, Issue 6 of the Journal of the Marine Biological Association ([JMBA](https://www.cambridge.org/core/journals/journal-of-the-marine-biological-association-of-the-united-kingdom/issue/D08CD8A986B13E560CCD7E9AE22C4FC7), so happy!!!
 In the selected photo, it is possible to observe, in detail, the oral structure of _Narcissia ahearnae_ Pawson, 2007, one of the species I studied during my master's degree at the [MZUSP](https://www.mz.usp.br).
 
 
