@@ -2,7 +2,7 @@
 reading_time: false
 summary: New Collections Technician in the Division of Invertebrates at the Field Museum
 authors:
-date: 2022-02-23
+date: 2022-10-03
 profile: false
 comments: false
 title: Starting a New Position!
