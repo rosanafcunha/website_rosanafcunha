@@ -7,7 +7,7 @@ role: Collections Technician, Invertebrates Zoology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Field Museum FMNH
+- name: The Field Museum - FMNH
 
 bio: ""
 interests:
