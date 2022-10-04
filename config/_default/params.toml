@@ -90,11 +90,11 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "rosana.fcunha@alumni.usp.br"
-phone = "+55 (13) 3229-0100"
+phone = "+1 (312) 922-9410"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Federal University of São Paulo, Marine Ecology and Conservation Laboratory, 144 Dr. Carvalho de Mendonça Street, Santos, Brazil", postcode = "11070-100"}
+address = {street = "The Field Museum, Division of Invertebrates, 1400 S Lake Shore Dr, Chicago, IL", postcode = "60605"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
