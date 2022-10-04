@@ -1,6 +1,6 @@
 --- 
 reading_time: false
-summary: New Collections Technician in the Division of Invertebrates, Field Museum
+summary: I am the new Collections Technician, Invertebrates Zoology at the Field Museum
 authors:
 date: 2022-10-03
 profile: false
