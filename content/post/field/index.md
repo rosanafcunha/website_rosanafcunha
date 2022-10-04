@@ -19,6 +19,6 @@ Chicago. This is an exciting opportunity, and I'm looking forward to putting my 
 helped me get to this point in my career. I'm so grateful for your support!
 
 ---
-![cover](https://raw.githubusercontent.com/rosanafcunha/rosanafcunha/master/content/post/cover/featured.jpg "cover")
+![fm](https://raw.githubusercontent.com/rosanafcunha/website_rosanafcunha/master/content/post/field/featured.jpeg "fm")
 
 ---
