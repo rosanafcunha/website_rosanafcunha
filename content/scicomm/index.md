@@ -25,12 +25,10 @@ Inspire students’ curiosity about a future in STEM! The snail mail model was s
 
 Talking to the general public in the Dozin' with the Dinos outreach project at the [Field Museum](https://www.fieldmuseum.org/).
 
-
 ![](dozin.png)
 
 
 Exhibition at the Museum of Zoology [UFBA](https://www.ufba.br) open to the public.
-
 
 ![](mzufba2.JPG)
 
