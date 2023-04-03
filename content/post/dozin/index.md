@@ -13,11 +13,10 @@ image:
   preview_only: true
 ---
 ---
-Such a fun Dozin' with the Dinos event last night at the [Field Museum](https://www.fieldmuseum.org/our-events/dozin-with-the-dinos). Love to share cool information about the echinoderms with the general public, 
-and see the kids (and their parents! hehe) getting so excited about it! 
+Such a fun Dozin' with the Dinos event last night at the [Field Museum](https://www.fieldmuseum.org/our-events/dozin-with-the-dinos). Love to share cool information about the echinoderms with the general public, and see the kids (and their parents! hehe) getting so excited about it! 
 
 
 ---
-![dozin](https://raw.githubusercontent.com/rosanafcunha/website_rosanafcunha/master/content/post/LPS/featured.png "dozin")
+![dozin](https://github.com/rosanafcunha/website_rosanafcunha/blob/master/content/post/dozin/featured.png?raw=true "dozin")
 
 ---
