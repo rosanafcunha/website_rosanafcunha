@@ -11,7 +11,7 @@ header:
 ---
 
 ---
-**Letters to a Pre-Scientist**
+**Letters to a Pre-Scientist** 
 ---
 
 Inspire students’ curiosity about a future in STEM! The snail mail model was selected because it is low cost, accessible worldwide, and a unique way to facilitate human connection. Click at the [link](https://prescientist.org/) to know more about this amazing project.
@@ -20,7 +20,7 @@ Inspire students’ curiosity about a future in STEM! The snail mail model was s
 ![](lps.png)
 
 ---
-**Museum exhibit**
+**Museum exhibit*
 ---
 
 Talking to the general public in the Dozin' with the Dinos outreach project at the [Field Museum](https://www.fieldmuseum.org/).
