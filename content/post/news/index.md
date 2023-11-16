@@ -5,7 +5,7 @@ authors:
 date: 2023-08-25
 profile: false
 comments: false
-title: On the Field Museum news this week 
+title: On the Field Museum News this week 
 image:
   caption: ""
   focal_point: ""
