@@ -3,7 +3,7 @@ title: Rosana Cunha
 avatar_filename: avatar.jpg
 
 # Role/position/tagline
-role: Collections Technician, Invertebrates Zoology
+role: Collections Technician Invertebrates Zoology
 
 # Organizations/Affiliations to show in About widget
 organizations:
