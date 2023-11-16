@@ -17,6 +17,6 @@ It is always a pleasure to talk to the public about echinoderms! I had such a fu
 and getting surprised with fun facts about this incredible group makes my heart warm!
 
 ---
-![dozin](https://github.com/rosanafcunha/website_rosanafcunha/blob/master/content/post/dozin/featured.png?raw=true "dozin")
+![member](https://raw.githubusercontent.com/rosanafcunha/website_rosanafcunha/master/content/post/membernght/featured.png "member")
 
 ---
