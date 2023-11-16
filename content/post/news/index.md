@@ -17,6 +17,6 @@ I never imagined appearing on the news while at work, yet here I am! It is a ple
 team and take part in this fantastic project to digitize marine invertebrates.
 
 ---
-![member](https://raw.githubusercontent.com/rosanafcunha/website_rosanafcunha/master/content/post/membernght/featured.png "member")
+![news](https://raw.githubusercontent.com/rosanafcunha/website_rosanafcunha/master/content/post/news/featured.png "news")
 
 ---
