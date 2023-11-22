@@ -5,7 +5,7 @@ authors:
 date: 2023-04-21
 profile: false
 comments: false
-title: 72nd Annual Members’ Nights! 
+title: 72nd Annual Members' Nights! 
 image:
   caption: ""
   focal_point: ""
