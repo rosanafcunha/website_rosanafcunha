@@ -8,6 +8,7 @@
 
   gtag('config', 'G-GFVEPS4E28');
 </script>
+<!-- Google tag (gtag.js) -->
 
 title: Rosana Cunha
 avatar_filename: avatar.jpg
