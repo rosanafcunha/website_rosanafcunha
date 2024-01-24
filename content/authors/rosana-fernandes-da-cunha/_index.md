@@ -1,7 +1,4 @@
 ---
-window.dataLayer = window.dataLayer || \[\]; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-GFVEPS4E28');
----
----
 title: Rosana Cunha
 avatar_filename: avatar.jpg
 
