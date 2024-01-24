@@ -1,7 +1,10 @@
 ---
 title: Rosana Cunha
 avatar_filename: avatar.jpg
-
+custom_js:
+  - '<script async src="https://www.googletagmanager.com/gtag/js?id=G-GFVEPS4E28"></script>'
+  - '<script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag("js", new Date()); gtag("config", "G-GFVEPS4E28");</script>'
+  - 
 # Role/position/tagline
 role: Collections Technician Invertebrates Zoology
 
