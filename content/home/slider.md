@@ -2,21 +2,21 @@
 widget: slider
 headless: true
 weight: "10"
-interval: 5000  # Set the interval to 5000 milliseconds (5 seconds)
+interval: 4000  # Set the interval to 4000 milliseconds (4 seconds)
 height: 380px
 
 item:
   - overlay_color: '#666'
     overlay_img: nar3.png
     overlay_filter: 0
-    content: '<img src="/static/media/nar3.png" alt="" class="img-fluid">'
+    content: '![Nar3](/static/media/nar3.png){: style="max-width:100%; height:auto;"}'
   - overlay_color: '#666'
     overlay_img: nar.jpg
     overlay_filter: 0
-    content: '<img src="/static/media/nar.jpg" alt="" class="img-fluid">'
+    content: '![Nar](/static/media/nar.jpg){: style="max-width:100%; height:auto;"}'
   - overlay_color: '#666'
     overlay_img: ssa2.jpg
     overlay_filter: 0
-    content: '<img src="/static/media/ssa2.jpg" alt="" class="img-fluid">'
+    content: '![SSA2](/static/media/ssa2.jpg){: style="max-width:100%; height:auto;"}'
 
 ---
