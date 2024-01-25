@@ -2,7 +2,7 @@
 widget: slider
 headless: true
 weight: "10"
-interval: 'false'
+interval: 5000  # Set the interval to 5000 milliseconds (5 seconds)
 height: 380px
 
 item:
