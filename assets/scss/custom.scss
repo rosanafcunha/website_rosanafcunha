@@ -12,7 +12,11 @@
   z-index: 1030;
   padding: 0 1rem;
 }
-.slider.md img {
-  max-width: 100%;
+.custom-slider {
+  width: 100%;
+}
+
+.custom-slider img {
+  width: 100%;
   height: auto;
 }
