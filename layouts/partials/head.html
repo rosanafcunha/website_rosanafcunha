@@ -1,11 +1,11 @@
 {{- if .Params.googleAnalyticsID -}}
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ .Params.googleAnalyticsID }}"></script>
-<script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Params.googleAnalyticsID }}"></script>
+  <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
   gtag('config', '{{ .Params.googleAnalyticsID }}');
-</script>
+  </script>
 {{- end -}}
 
