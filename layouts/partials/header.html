@@ -1,4 +1,4 @@
-{{- $pc := .Site.Config.Privacy.GoogleAnalytics -}}
+{{- $pc := .Site.Params.Privacy.GoogleAnalytics -}}
 {{- if not $pc.Disable }}{{ with .Site.GoogleAnalytics -}}
 {{ if hasPrefix . "G-"}}
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
@@ -15,6 +15,7 @@ if (!doNotTrack) {
 <!-- UA tracking code here -->
 {{- end -}}
 {{- end }}{{ end -}}
+
 
 
 
