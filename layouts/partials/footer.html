@@ -1,4 +1,4 @@
-{{- if .Params.googleTagManagerID -}}
+{{- if .Params.google_tag_manager -}}
   <script>
   (function(w,d,s,l,i){
     w[l]=w[l]||[];
@@ -7,13 +7,13 @@
     j.async=true;
     j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
     f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','{{ .Params.googleTagManagerID }}');
+  })(window,document,'script','dataLayer','{{ .Params.google_tag_manager }}');
   </script>
 {{- end -}}
 
-{{- if .Params.googleTagManagerID -}}
+{{- if .Params.google_tag_manager -}}
   <noscript>
-  <iframe src="https://www.googletagmanager.com/ns.html?id={{ .Params.googleTagManagerID }}"
+  <iframe src="https://www.googletagmanager.com/ns.html?id={{ .Params.google_tag_manager }}"
           height="0" width="0" style="display:none;visibility:hidden"></iframe>
   </noscript>
 {{- end -}}
