@@ -9,8 +9,9 @@ custom_js:
 role: Registration Officer Marine Invertebrates
 
 # Organizations/Affiliations to show in About widget
-organizations: Museums Victoria
-name: Museums Victoria
+organizations: 
+- name: Field Museum FMNH
+- name: The Field Museum - FMNH
 
 bio: ""
 interests:
