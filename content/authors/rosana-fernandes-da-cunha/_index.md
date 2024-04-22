@@ -47,7 +47,7 @@ social:
     icon: cv
   - display:
       header: false
-    link: https://www.linkedin.com/in/rosana-cunha-msc-5a028040/
+    link: https://www.linkedin.com/in/rosana-cunha-ms-5a028040/
     icon_pack: fab
     icon: linkedin
   - display:
