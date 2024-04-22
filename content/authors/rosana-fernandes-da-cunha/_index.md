@@ -10,7 +10,7 @@ role: Registration Officer Marine Invertebrates
 
 # Organizations/Affiliations to show in About widget
 organizations: Museums Victoria  
-- name: 
+  - name: 
 
 bio: ""
 interests:
