@@ -105,7 +105,7 @@ address = {street = "Melbourne Museum, 11 Nicholson St, Carlton VIC, Melbourne, 
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday to Friday 9:00 to 17:00"]
+# office_hours = ["Monday to Friday 9:00 - 17:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 #appointment_url = "https://calendly.com"
