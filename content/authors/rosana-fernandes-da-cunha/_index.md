@@ -9,8 +9,8 @@ custom_js:
 role: Registration Officer Marine Invertebrates
 
 # Organizations/Affiliations to show in About widget
-organizations: Museums Victoria  
-
+organizations: 
+name: Museums Victoria
 
 bio: ""
 interests:
