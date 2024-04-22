@@ -67,6 +67,8 @@ education:
       institution: Universidade Federal da Bahia
       year: 2013
 superuser: true
+
+---
   
 ---
 My research concentrates on understanding the biodiversity of sea stars and the role they play in the oceans. Along with my ten years of research experience, I have also worked as an assistant collection manager at many natural history museums around Brazil and the world, and I have an extensive background in the organization, preservation, and digitization of scientific collections. I got my BS and my Teacher Licensure in Biological Sciences at the Universidade Federal da Bahia, Brazil ([UFBA](https://www.ufba.br)) with an exchange period at the Fairleigh Dickinson University ([FDU](https://www.fdu.edu)), New Jersey, USA, and my MS at the Museum of Zoology of the University of São Paulo ([MZUSP](https://www.mz.usp.br)) with an exchange period at the National Museum of Natural History, Smithsonian Institution ([NMNH](https://naturalhistory.si.edu)), Washington D.C., USA. 
