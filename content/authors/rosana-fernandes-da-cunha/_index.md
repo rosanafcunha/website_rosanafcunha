@@ -10,8 +10,7 @@ role: Registration Officer Marine Invertebrates
 
 # Organizations/Affiliations to show in About widget
 organizations: 
-- name: Field Museum FMNH
-- name: The Field Museum - FMNH
+- name: Museums Victoria - Melbourne Museum
 
 bio: ""
 interests:
