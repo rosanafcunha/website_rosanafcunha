@@ -6,10 +6,10 @@ custom_js:
   - '<script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag("js", new Date()); gtag("config", "G-GFVEPS4E28");</script>'
   - 
 # Role/position/tagline
-role: Collections Technician Invertebrates Zoology
+role: Registration Officer Marine Invertebrates
 
 # Organizations/Affiliations to show in About widget
-organizations:
+organizations: Museums Victoria  
 - name: 
 
 bio: ""
