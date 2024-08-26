@@ -19,6 +19,6 @@ with them about the impact caused by the crown-of-thorns sea star in the Great B
 helped to control the sea star poupulation in the past. The kids loved the biscuit sea star (Tosia australis), very common around here in Victoria. 
 We also had a coloring table with sea stars drawing for the little ones! 
 
-![mv1](https://raw.githubusercontent.com/rosanafcunha/website_rosanafcunha/master/content/post/g1/featured.png "g1")
+![mv1](https://raw.githubusercontent.com/rosanafcunha/website_rosanafcunha/master/content/post/MV_1/featured.png "mv1")
 
 ---
