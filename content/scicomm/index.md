@@ -23,6 +23,10 @@ Inspire students’ curiosity about a future in STEM! The snail mail model was s
 **Museum exhibit**
 ---
 
+National Science Week at [Museums Victoria](https://museumsvictoria.com.au).
+
+![](MV1.png)
+
 Talking to the general public in the Dozin' with the Dinos outreach project at the [Field Museum](https://www.fieldmuseum.org/).
 
 ![](dozin.png)
