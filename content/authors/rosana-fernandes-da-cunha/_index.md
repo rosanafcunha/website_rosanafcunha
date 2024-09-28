@@ -47,11 +47,6 @@ social:
     icon: cv
   - display:
       header: false
-    link: https://www.linkedin.com/in/rosana-cunha-ms-5a028040/
-    icon_pack: fab
-    icon: linkedin
-  - display:
-      header: false
     icon_pack: fab
     link: https://twitter.com/rosannafcunha
     icon: twitter
