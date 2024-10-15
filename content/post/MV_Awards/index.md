@@ -19,6 +19,6 @@ nominated in the category Embrace Award for Service, and I could not be more pro
 
 ---
 
-![award](https://raw.githubusercontent.com/rosanafcunha/website_rosanafcunha/master/content/post/MV_1/featured.png "mv1")
+![award](https://raw.githubusercontent.com/rosanafcunha/website_rosanafcunha/refs/heads/master/content/post/MV_Awards/featured.png "mv2")
 
 ---
