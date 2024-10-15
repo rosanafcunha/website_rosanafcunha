@@ -14,8 +14,9 @@ image:
 ---
 ---
 
-This month the Sciences Collection Managers team at [Museums Victoria](https://museumsvictoria.com.au) has been
-nominated in the category Embrace Award for Service, and I could not be more proud of our group. 
+This month the Sciences Collection Managers team at [Melbourne Museum](https://museumsvictoria.com.au) has been
+nominated in the category Embrace Award for Service, and I could not be more proud of our group. What a wonderful
+news!
 
 ---
 
