@@ -5,7 +5,7 @@ authors:
 date: 2024-08-18
 profile: false
 comments: false
-title: Museums Victoria Awards 2024 Finalist! 
+title: Museums Victoria Awards 2024 Finalists
 image:
   caption: ""
   focal_point: ""
