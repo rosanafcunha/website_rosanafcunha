@@ -10,7 +10,7 @@ role: Collection Deaccession Officer, Sciences
 
 # Organizations/Affiliations to show in About widget
 organizations: 
-- name: Museums Victoria
+- name: Museums Victoria Research Institute
 
 bio: ""
 interests:
