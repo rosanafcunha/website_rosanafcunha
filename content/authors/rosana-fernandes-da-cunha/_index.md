@@ -6,7 +6,7 @@ custom_js:
   - '<script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag("js", new Date()); gtag("config", "G-GFVEPS4E28");</script>'
   - 
 # Role/position/tagline
-role: Collections Registration Officer, Natural Sciences
+role: Collection Deaccession Officer, Sciences
 
 # Organizations/Affiliations to show in About widget
 organizations: 
