@@ -15,7 +15,7 @@ organizations:
 bio: ""
 interests:
   - Collection Management 
-  - Cataloging & Documentation
+  - Cataloging and Documentation
   - Collection Conservation
   - Collaborative Curation
   - Collection Digitisation
