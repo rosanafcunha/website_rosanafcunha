@@ -14,11 +14,11 @@ organizations:
 
 bio: ""
 interests:
-  - Marine Invertebrates 
-  - Scientific Collections
-  - Collections Management
-  - Taxonomy
-  - Evolutionary Biology
+  - Collection Management 
+  - Cataloging and Documentation
+  - Collection Conservation
+  - Collaborative Curation
+  - Collection Digitisation
 social:
   - display:
       header: false
