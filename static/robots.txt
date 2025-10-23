@@ -1,0 +1,7 @@
+---
+User-agent: *
+Disallow: /
+Allow: /index.html
+Crawl-delay: 10
+Sitemap: https://rosanafcunha.github.io/sitemap.xml
+---
